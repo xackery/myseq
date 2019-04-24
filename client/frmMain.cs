@@ -440,7 +440,7 @@ namespace myseq
             
             // Set Map Window Options
             mapPane.DockAreas = ((DockAreas)(DockAreas.Document));
-            mapPane.CloseButtonVisible = false;
+            mapPane.CloseButton = false;
             mapPane.TabText = "map_pane";
             
             LogLib.WriteLine("Creating SpawnList Window");
@@ -753,21 +753,22 @@ namespace myseq
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMain));
-            WeifenLuo.WinFormsUI.Docking.DockPanelSkin dockPanelSkin2 = new WeifenLuo.WinFormsUI.Docking.DockPanelSkin();
-            WeifenLuo.WinFormsUI.Docking.AutoHideStripSkin autoHideStripSkin2 = new WeifenLuo.WinFormsUI.Docking.AutoHideStripSkin();
-            WeifenLuo.WinFormsUI.Docking.DockPanelGradient dockPanelGradient4 = new WeifenLuo.WinFormsUI.Docking.DockPanelGradient();
-            WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient8 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
-            WeifenLuo.WinFormsUI.Docking.DockPaneStripSkin dockPaneStripSkin2 = new WeifenLuo.WinFormsUI.Docking.DockPaneStripSkin();
-            WeifenLuo.WinFormsUI.Docking.DockPaneStripGradient dockPaneStripGradient2 = new WeifenLuo.WinFormsUI.Docking.DockPaneStripGradient();
-            WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient9 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
-            WeifenLuo.WinFormsUI.Docking.DockPanelGradient dockPanelGradient5 = new WeifenLuo.WinFormsUI.Docking.DockPanelGradient();
-            WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient10 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
-            WeifenLuo.WinFormsUI.Docking.DockPaneStripToolWindowGradient dockPaneStripToolWindowGradient2 = new WeifenLuo.WinFormsUI.Docking.DockPaneStripToolWindowGradient();
-            WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient11 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
-            WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient12 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
-            WeifenLuo.WinFormsUI.Docking.DockPanelGradient dockPanelGradient6 = new WeifenLuo.WinFormsUI.Docking.DockPanelGradient();
-            WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient13 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
-            WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient14 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
+            //TODO: reintroduce these
+            //WeifenLuo.WinFormsUI.Docking.DockPanelSkin dockPanelSkin2 = new WeifenLuo.WinFormsUI.Docking.DockPanelSkin();
+            //WeifenLuo.WinFormsUI.Docking.AutoHideStripSkin autoHideStripSkin2 = new WeifenLuo.WinFormsUI.Docking.AutoHideStripSkin();
+            //WeifenLuo.WinFormsUI.Docking.DockPanelGradient dockPanelGradient4 = new WeifenLuo.WinFormsUI.Docking.DockPanelGradient();
+            //WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient8 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
+            //WeifenLuo.WinFormsUI.Docking.DockPaneStripSkin dockPaneStripSkin2 = new WeifenLuo.WinFormsUI.Docking.DockPaneStripSkin();
+            //WeifenLuo.WinFormsUI.Docking.DockPaneStripGradient dockPaneStripGradient2 = new WeifenLuo.WinFormsUI.Docking.DockPaneStripGradient();
+            //WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient9 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
+            //WeifenLuo.WinFormsUI.Docking.DockPanelGradient dockPanelGradient5 = new WeifenLuo.WinFormsUI.Docking.DockPanelGradient();
+            //WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient10 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
+            //WeifenLuo.WinFormsUI.Docking.DockPaneStripToolWindowGradient dockPaneStripToolWindowGradient2 = new WeifenLuo.WinFormsUI.Docking.DockPaneStripToolWindowGradient();
+            //WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient11 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
+            //WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient12 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
+            //WeifenLuo.WinFormsUI.Docking.DockPanelGradient dockPanelGradient6 = new WeifenLuo.WinFormsUI.Docking.DockPanelGradient();
+            //WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient13 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
+            //WeifenLuo.WinFormsUI.Docking.TabGradient tabGradient14 = new WeifenLuo.WinFormsUI.Docking.TabGradient();
             this.mnuMainMenu = new System.Windows.Forms.MenuStrip();
             this.mnuFileMain = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuOptions = new System.Windows.Forms.ToolStripMenuItem();
@@ -3042,7 +3043,8 @@ namespace myseq
             this.dockPanel.Margin = new System.Windows.Forms.Padding(4);
             this.dockPanel.Name = "dockPanel";
             this.dockPanel.Size = new System.Drawing.Size(1067, 572);
-            dockPanelGradient4.EndColor = System.Drawing.SystemColors.ControlLight;
+            /*TODO: fix these
+             * dockPanelGradient4.EndColor = System.Drawing.SystemColors.ControlLight;
             dockPanelGradient4.StartColor = System.Drawing.SystemColors.ControlLight;
             autoHideStripSkin2.DockStripGradient = dockPanelGradient4;
             tabGradient8.EndColor = System.Drawing.SystemColors.Control;
@@ -3089,8 +3091,10 @@ namespace myseq
             dockPaneStripToolWindowGradient2.InactiveTabGradient = tabGradient14;
             dockPaneStripSkin2.ToolWindowGradient = dockPaneStripToolWindowGradient2;
             dockPanelSkin2.DockPaneStripSkin = dockPaneStripSkin2;
+
             this.dockPanel.Skin = dockPanelSkin2;
             this.dockPanel.TabIndex = 2;
+            */
             // 
             // frmMain
             // 
@@ -3570,7 +3574,7 @@ namespace myseq
 
             if (Settings.Instance.DepthFilter)
                 this.toolStripDepthFilterButton.Image = global::myseq.Properties.Resources.ExpandSpaceHS;
-            
+
 
             this.mnuDynamicAlpha.Checked = Settings.Instance.UseDynamicAlpha;
             this.mnuDynamicAlpha2.Checked = Settings.Instance.UseDynamicAlpha;
@@ -5358,10 +5362,12 @@ namespace myseq
             this.toolStripZPosLabel.Enabled = Settings.Instance.DepthFilter;
             this.toolStripResetDepthFilter.Enabled = Settings.Instance.DepthFilter;
 
+            
             if (Settings.Instance.DepthFilter)
                 this.toolStripDepthFilterButton.Image = global::myseq.Properties.Resources.ExpandSpaceHS;
             else
                 this.toolStripDepthFilterButton.Image = global::myseq.Properties.Resources.ShrinkSpaceHS;
+                
 
         }
 
@@ -6380,6 +6386,7 @@ namespace myseq
 
         public void addMapText(string textToAdd)
         {
+            
             frmAddMapText mapBox = new frmAddMapText();
             mapBox.txtColr = Settings.Instance.SelectedAddMapText;
             string new_text = textToAdd.Replace("#","");

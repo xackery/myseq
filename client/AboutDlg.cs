@@ -44,12 +44,7 @@ namespace myseq {
 
 			InitializeComponent();
 
-
-
-			lblVersion.Text = Application.ProductVersion.ToString() + " EqMule Build";
-
-
-
+			lblVersion.Text = Application.ProductVersion.ToString() + " Xackery Build";
 		}
 
 
@@ -89,37 +84,37 @@ namespace myseq {
             // 
             // lblInfo1
             // 
-            this.lblInfo1.Location = new System.Drawing.Point(116, 28);
+            this.lblInfo1.Location = new System.Drawing.Point(97, 24);
             this.lblInfo1.Name = "lblInfo1";
-            this.lblInfo1.Size = new System.Drawing.Size(168, 18);
+            this.lblInfo1.Size = new System.Drawing.Size(140, 16);
             this.lblInfo1.TabIndex = 0;
-            this.lblInfo1.Text = "MySEQ Open (2015)";
+            this.lblInfo1.Text = "MySEQ Open (2019)";
             this.lblInfo1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.lblInfo1.Click += new System.EventHandler(this.lblInfo1_Click);
             // 
             // lblVersion
             // 
-            this.lblVersion.Location = new System.Drawing.Point(74, 46);
+            this.lblVersion.Location = new System.Drawing.Point(62, 40);
             this.lblVersion.Name = "lblVersion";
-            this.lblVersion.Size = new System.Drawing.Size(233, 19);
+            this.lblVersion.Size = new System.Drawing.Size(194, 16);
             this.lblVersion.TabIndex = 1;
             this.lblVersion.Text = "Version 2.XXX";
             this.lblVersion.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblInfo2
             // 
-            this.lblInfo2.Location = new System.Drawing.Point(46, 96);
+            this.lblInfo2.Location = new System.Drawing.Point(38, 83);
             this.lblInfo2.Name = "lblInfo2";
-            this.lblInfo2.Size = new System.Drawing.Size(279, 18);
+            this.lblInfo2.Size = new System.Drawing.Size(233, 16);
             this.lblInfo2.TabIndex = 2;
             this.lblInfo2.Text = "Uses the DockPanel Suite, available at:";
             this.lblInfo2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // cmdControl
             // 
-            this.cmdControl.Location = new System.Drawing.Point(144, 189);
+            this.cmdControl.Location = new System.Drawing.Point(120, 164);
             this.cmdControl.Name = "cmdControl";
-            this.cmdControl.Size = new System.Drawing.Size(90, 27);
+            this.cmdControl.Size = new System.Drawing.Size(75, 23);
             this.cmdControl.TabIndex = 4;
             this.cmdControl.Text = "OK";
             this.cmdControl.Click += new System.EventHandler(this.cmdControl_Click);
@@ -127,18 +122,18 @@ namespace myseq {
             // picLogo
             // 
             this.picLogo.Image = ((System.Drawing.Image)(resources.GetObject("picLogo.Image")));
-            this.picLogo.Location = new System.Drawing.Point(14, 14);
+            this.picLogo.Location = new System.Drawing.Point(12, 12);
             this.picLogo.Name = "picLogo";
-            this.picLogo.Size = new System.Drawing.Size(77, 74);
+            this.picLogo.Size = new System.Drawing.Size(64, 64);
             this.picLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picLogo.TabIndex = 6;
             this.picLogo.TabStop = false;
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(85, 142);
+            this.label1.Location = new System.Drawing.Point(71, 123);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(208, 18);
+            this.label1.Size = new System.Drawing.Size(173, 16);
             this.label1.TabIndex = 7;
             this.label1.Text = "MySEQ Open Forums at";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -146,9 +141,9 @@ namespace myseq {
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(116, 160);
+            this.linkLabel1.Location = new System.Drawing.Point(97, 139);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(147, 17);
+            this.linkLabel1.Size = new System.Drawing.Size(120, 13);
             this.linkLabel1.TabIndex = 8;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "http://www.showeq.net";
@@ -158,9 +153,9 @@ namespace myseq {
             // linkLabel2
             // 
             this.linkLabel2.AutoSize = true;
-            this.linkLabel2.Location = new System.Drawing.Point(74, 114);
+            this.linkLabel2.Location = new System.Drawing.Point(62, 99);
             this.linkLabel2.Name = "linkLabel2";
-            this.linkLabel2.Size = new System.Drawing.Size(243, 17);
+            this.linkLabel2.Size = new System.Drawing.Size(187, 13);
             this.linkLabel2.TabIndex = 9;
             this.linkLabel2.TabStop = true;
             this.linkLabel2.Text = "http://dockpanelsuite.sourceforge.net";
@@ -169,7 +164,7 @@ namespace myseq {
             // 
             // AboutDlg
             // 
-            this.AutoScaleBaseSize = new System.Drawing.Size(6, 15);
+            this.AutoScaleBaseSize = new System.Drawing.Size(5, 13);
             this.ClientSize = new System.Drawing.Size(363, 237);
             this.Controls.Add(this.linkLabel2);
             this.Controls.Add(this.linkLabel1);

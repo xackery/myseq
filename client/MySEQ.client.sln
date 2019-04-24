@@ -1,5 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySEQ.client", "MySEQ.client.csproj", "{874224EA-A207-4C8A-8BB4-76F473680C8F}"
 EndProject
 Global
@@ -13,6 +15,7 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{874224EA-A207-4C8A-8BB4-76F473680C8F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{874224EA-A207-4C8A-8BB4-76F473680C8F}.Debug|Any CPU.Build.0 = Debug|x86
 		{874224EA-A207-4C8A-8BB4-76F473680C8F}.Debug|x64.ActiveCfg = Debug|x86
 		{874224EA-A207-4C8A-8BB4-76F473680C8F}.Debug|x86.ActiveCfg = Debug|x86
 		{874224EA-A207-4C8A-8BB4-76F473680C8F}.Debug|x86.Build.0 = Debug|x86
@@ -23,5 +26,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {996E094B-A557-4C31-98CB-36EABAFC008D}
 	EndGlobalSection
 EndGlobal
