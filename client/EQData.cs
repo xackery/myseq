@@ -201,17 +201,17 @@ namespace myseq {
 
         private static void PlaySnd()
         {
-
             PlaySound(sndFile, 0, 0);
-
         }
 
 
 
         public static void Play(string fileName)
         {
+            SoundPlayer sp = new SoundPlayer(fileName);
+            sp.Play();
 
-            sndFile = fileName;
+            /*sndFile = fileName;
 
             System.Threading.ThreadStart entry =
 
@@ -222,7 +222,7 @@ namespace myseq {
                                     new System.Threading.Thread(entry);
 
             thrd.Start();
-
+            */
         }
 
         public void EnablePlayAlerts()
@@ -3664,8 +3664,7 @@ namespace myseq {
                             }
 
                             else if (PlayOnMatch)
-                            {
-
+                            {                                
                                 String tempstr = AudioFile.Replace("\\", "\\\\");
 
                                 Play(tempstr);
