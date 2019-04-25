@@ -4215,8 +4215,8 @@ namespace myseq {
                             int diff = playerinfo.Level - si.Level;
                             f1.gconLevel -= diff;
                         }
-                        if (f1.gconLevel > 105)
-                            f1.gconLevel = 105;
+                        if (f1.gconLevel > 110)
+                            f1.gconLevel = 110;
                         if (f1.gconLevel < 1)
                             f1.gconLevel = -1;
                         if (f1.gconLevel == -1)

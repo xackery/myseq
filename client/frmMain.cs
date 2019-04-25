@@ -2808,13 +2808,18 @@ namespace myseq
             "102",
             "103",
             "104",
-            "105"});
+            "105",
+            "106",
+            "107",
+            "108",
+            "109",
+            "110"});
             this.toolStripLevel.MaxDropDownItems = 80;
             this.toolStripLevel.MaxLength = 4;
             this.toolStripLevel.Name = "toolStripLevel";
             this.toolStripLevel.Size = new System.Drawing.Size(75, 25);
             this.toolStripLevel.Text = "Auto";
-            this.toolStripLevel.ToolTipText = "Auto or 1-105 to filter mobcolors accordingly";
+            this.toolStripLevel.ToolTipText = "Auto or 1-110 to filter mobcolors accordingly";
             this.toolStripLevel.DropDownClosed += new System.EventHandler(this.toolStripLevel_DropDownClosed);
             this.toolStripLevel.TextUpdate += new System.EventHandler(this.toolStripLevel_TextUpdate);
             this.toolStripLevel.Leave += new System.EventHandler(this.toolStripLevel_Leave);
@@ -7708,7 +7713,7 @@ namespace myseq
 
                 if (isNum)
                 {
-                    if (Num < 1 || Num > 105)
+                    if (Num < 1 || Num > 110)
                     {
                         validnum = false;
                     }
@@ -7718,7 +7723,7 @@ namespace myseq
 
             if (!validnum)
             {
-                MessageBox.Show("1. Enter a number between 1-105 or select Auto");
+                MessageBox.Show("1. Enter a number between 1-110 or select Auto");
             }
         }
 
@@ -7734,7 +7739,7 @@ namespace myseq
 
                 if (isNum)
                 {
-                    if (Num < 1 || Num > 105)
+                    if (Num < 1 || Num > 110)
                     {
                         validnum = false;
                     }
@@ -7753,7 +7758,7 @@ namespace myseq
 
             if (!validnum)
             {
-                MessageBox.Show("2. Enter a number between 1-105 or Auto");
+                MessageBox.Show("2. Enter a number between 1-110 or Auto");
             } else {
                 this.gConBaseName = "";
             }
@@ -7771,7 +7776,7 @@ namespace myseq
                 this.gConBaseName = "";
                 if (isNum)
                 {
-                    if (Num >= 1 && Num <= 105)
+                    if (Num >= 1 && Num <= 110)
                     {
                         //Do Stuff
                         Settings.Instance.LevelOverride = (int)Num;
@@ -7803,7 +7808,7 @@ namespace myseq
 
                     if (isNum)
                     {
-                        if (Num >= 1 && Num <= 105)
+                        if (Num >= 1 && Num <= 110)
                         {
                             //do stuff
                             Settings.Instance.LevelOverride = (int)Num;
