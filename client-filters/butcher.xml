@@ -3,9 +3,7 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
-        <oldfilter><regex>Name:Stormbreaker</regex></oldfilter>
-        <oldfilter><regex>Name:SirensBane</regex></oldfilter>
-        <oldfilter><regex>Name:Shuttle</regex></oldfilter>
+		<oldfilter><regex>Name:Glubbsink</regex></oldfilter>		
     </section>
     <section name="Caution">
     </section>

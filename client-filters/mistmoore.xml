@@ -3,6 +3,15 @@
 <!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
+	<oldfilter><regex>Name:an avenging caitiff</regex></oldfilter>
+	<oldfilter><regex>Name:Butler Syncall</regex></oldfilter>
+	<oldfilter><regex>Name:a cloaked dhampyre</regex></oldfilter>
+	<oldfilter><regex>Name:Garton Viswin</regex></oldfilter>
+	<oldfilter><regex>Name:a glyphed ghoul</regex></oldfilter>
+	<oldfilter><regex>Name:Lasna Cheroon</regex></oldfilter>
+	<oldfilter><regex>Name:Maid Issis</regex></oldfilter>
+	<oldfilter><regex>Name:Mynthi Davissi</regex></oldfilter>
+	<oldfilter><regex>Name:a werewolf gypsy</regex></oldfilter>	
     </section>
     <section name="Caution">
     </section>

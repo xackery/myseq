@@ -3,6 +3,8 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
+	<oldfilter><regex>Name:Priest Amiaz</regex></oldfilter>
+	<oldfilter><regex>Name:the thaumaturgist</regex></oldfilter>
     </section>
     <section name="Caution">
         <oldfilter><regex>Name:Coerced Thaumaturgist</regex></oldfilter>

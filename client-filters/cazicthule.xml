@@ -3,33 +3,57 @@
 <!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
 <seqfilters>
     <section name="Hunt">
-        <oldfilter><regex>Name:#a blood fin piranha</regex></oldfilter>
-        <oldfilter><regex>Name:#a crystaline mass</regex></oldfilter>
-        <oldfilter><regex>Name:#a frenzied shiverback</regex></oldfilter>
-        <oldfilter><regex>Name:#a rotting shiverback</regex></oldfilter>
-        <oldfilter><regex>Name:#a silverflank shiverback</regex></oldfilter>
-        <oldfilter><regex>Name:#a swirling red mass</regex></oldfilter>
-        <oldfilter><regex>Name:#a Thul Tae Ew despoiler</regex></oldfilter>
-        <oldfilter><regex>Name:#a Tae Ew bloodfiend</regex></oldfilter>
-        <oldfilter><regex>Name:#a Tae Ew convert</regex></oldfilter>
-        <oldfilter><regex>Name:#a Tae Ew trapper</regex></oldfilter>
-        <oldfilter><regex>Name:#a Thul Tae Ew crusader</regex></oldfilter>
-        <oldfilter><regex>Name:#a blood claw raptor</regex></oldfilter>
-        <oldfilter><regex>Name:#a disciple of Thule</regex></oldfilter>
-        <oldfilter><regex>Name:#a diseased mosquito</regex></oldfilter>
-        <oldfilter><regex>Name:#a gelatinous mass</regex></oldfilter>
-        <oldfilter><regex>Name:#a poisonstrand hunter</regex></oldfilter>
-        <oldfilter><regex>Name:#a rotting horror</regex></oldfilter>
-        <oldfilter><regex>Name:#a Thul Tae Ew spirtcaller</regex></oldfilter>
-        <oldfilter><regex>Name:#a toxic jungle hunter</regex></oldfilter>
-        <oldfilter><regex>Name:#a quivering mass</regex></oldfilter>
-        <oldfilter><regex>Name:#a virulent mosquito</regex></oldfilter>
-        <oldfilter><regex>Name:#an enraged disciple</regex></oldfilter>
-        <oldfilter><regex>Name:#an enraged tiger raptor</regex></oldfilter>
-        <oldfilter><regex>Name:#an ooze covered ritualist</regex></oldfilter>
-        <oldfilter><regex>Name:#Dismay</regex></oldfilter>
-        <oldfilter><regex>Name:#Dreadfang</regex></oldfilter>
-        <oldfilter><regex>Name:#Toxiferious</regex></oldfilter>
+	<oldfilter><regex>Name:a blood claw raptor</regex></oldfilter>
+	<oldfilter><regex>Name:a blood fin piranha</regex></oldfilter>
+	<oldfilter><regex>Name:a crystaline mass</regex></oldfilter>
+	<oldfilter><regex>Name:a diamond scale piranha</regex></oldfilter>
+	<oldfilter><regex>Name:a disciple of Thule</regex></oldfilter>
+	<oldfilter><regex>Name:a diseased mosquito</regex></oldfilter>
+	<oldfilter><regex>Name:Dismay</regex></oldfilter>
+	<oldfilter><regex>Name:Dreadfang</regex></oldfilter>
+	<oldfilter><regex>Name:an enraged Amygdalan</regex></oldfilter>
+	<oldfilter><regex>Name:an enraged disciple</regex></oldfilter>
+	<oldfilter><regex>Name:an enraged jungle raptor</regex></oldfilter>
+	<oldfilter><regex>Name:an enraged tiger raptor</regex></oldfilter>
+	<oldfilter><regex>Name:an envenomed hunter</regex></oldfilter>
+	<oldfilter><regex>Name:a frenzied shiverback</regex></oldfilter>
+	<oldfilter><regex>Name:Frightchaser</regex></oldfilter>
+	<oldfilter><regex>Name:a gelatinous mass</regex></oldfilter>
+	<oldfilter><regex>Name:a graystriped mosquito</regex></oldfilter>
+	<oldfilter><regex>Name:a gyrating mass</regex></oldfilter>
+	<oldfilter><regex>Name:a noxious jungle spider</regex></oldfilter>
+	<oldfilter><regex>Name:an ooze covered ritualist</regex></oldfilter>
+	<oldfilter><regex>Name:a poisonstrand hunter</regex></oldfilter>
+	<oldfilter><regex>Name:a quivering mass</regex></oldfilter>
+	<oldfilter><regex>Name:a razor fin piranha</regex></oldfilter>
+	<oldfilter><regex>Name:a razor tooth piranha</regex></oldfilter>
+	<oldfilter><regex>Name:a rotting horror</regex></oldfilter>
+	<oldfilter><regex>Name:a rotting shiverback</regex></oldfilter>
+	<oldfilter><regex>Name:Silverfang</regex></oldfilter>
+	<oldfilter><regex>Name:a silverflank shiverback</regex></oldfilter>
+	<oldfilter><regex>Name:Soul Siphon</regex></oldfilter>
+	<oldfilter><regex>Name:a swirling black mass</regex></oldfilter>
+	<oldfilter><regex>Name:a swirling green mass</regex></oldfilter>
+	<oldfilter><regex>Name:a swirling red mass</regex></oldfilter>
+	<oldfilter><regex>Name:a Tae Ew aggressor</regex></oldfilter>
+	<oldfilter><regex>Name:a Tae Ew bloodfiend</regex></oldfilter>
+	<oldfilter><regex>Name:a Tae Ew convert</regex></oldfilter>
+	<oldfilter><regex>Name:a Tae Ew hunter</regex></oldfilter>
+	<oldfilter><regex>Name:a Tae Ew prophet</regex></oldfilter>
+	<oldfilter><regex>Name:a Tae Ew spear fisher</regex></oldfilter>
+	<oldfilter><regex>Name:a Tae Ew trapper</regex></oldfilter>
+	<oldfilter><regex>Name:a Tae Ew warlord</regex></oldfilter>
+	<oldfilter><regex>Name:a Tae Ew warmaster</regex></oldfilter>
+	<oldfilter><regex>Name:Terrorclaw</regex></oldfilter>
+	<oldfilter><regex>Name:a Thul Tae Ew adept</regex></oldfilter>
+	<oldfilter><regex>Name:a Thul Tae Ew crusader</regex></oldfilter>
+	<oldfilter><regex>Name:a Thul Tae Ew despoiler</regex></oldfilter>
+	<oldfilter><regex>Name:a Thul Tae Ew ritualist</regex></oldfilter>
+	<oldfilter><regex>Name:a Thul Tae Ew spirtcaller</regex></oldfilter>
+	<oldfilter><regex>Name:a Thul Tae Ew torturer</regex></oldfilter>
+	<oldfilter><regex>Name:a toxic jungle hunter</regex></oldfilter>
+	<oldfilter><regex>Name:Toxiferious</regex></oldfilter>
+	<oldfilter><regex>Name:a virulent mosquito</regex></oldfilter>
     </section>
     <section name="Caution">
     </section>
