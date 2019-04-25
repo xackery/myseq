@@ -1254,7 +1254,7 @@ namespace myseq {
         
 
         public void ReAdjust() {
-
+            
             float mapWidth = Math.Abs(eq.maxx - eq.minx);
 
             float mapHeight = Math.Abs(eq.maxy - eq.miny);

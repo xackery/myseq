@@ -45,6 +45,16 @@ namespace myseq {
     public class EQData
     {
 
+        [DllImport("user32.dll", SetLastError = true)]
+        public static extern int GetWindowLong(IntPtr hWnd, int nIndex);
+
+        [DllImport("user32.dll")]
+        public static extern int SetWindowLong(IntPtr hWnd, int nIndex, int dwNewLong);
+
+        [DllImport("dwmapi.dll")]
+        public static extern void DwmExtendFrameIntoClientArea(IntPtr hWnd, ref int[] pMargins);
+
+
         [DllImport("winmm.dll")]
 
         public static extern long PlaySound(string lpszName, long hModule, long dwFlags);
@@ -191,21 +201,8 @@ namespace myseq {
 
         //public bool m_readjustRequired = false;
 
-        private const int ditchGone = 2;
-
-
-
-        private static string sndFile;
-
-
-
-        private static void PlaySnd()
-        {
-            PlaySound(sndFile, 0, 0);
-        }
-
-
-
+        private const int ditchGone = 2;     
+                     
         public static void Play(string fileName)
         {
             SoundPlayer sp = new SoundPlayer(fileName);
