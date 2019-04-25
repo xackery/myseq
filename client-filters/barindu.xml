@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Ikaav Ixvet Pox</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv Rux Vhedt</regex></oldfilter>
+        <oldfilter><regex>Name:Frenzied Noc Corpsethrasher</regex></oldfilter>
+        <oldfilter><regex>Name:Ra`tuk Kjyt Gykk</regex></oldfilter>
+        <oldfilter><regex>Name:Mastruq Utk Hykat</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv Rux Vhedt</regex></oldfilter>
+        <oldfilter><regex>Name:Aneuk Overseer</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

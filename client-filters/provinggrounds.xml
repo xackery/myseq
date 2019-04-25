@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Neuromancer Vionne</regex></oldfilter>
+        <oldfilter><regex>Name:Blind Hunter Rekamu</regex></oldfilter>
+        <oldfilter><regex>Name:Sentinel Siofet</regex></oldfilter>
+        <oldfilter><regex>Name:Discordling Enchainer Kuroun</regex></oldfilter>
+        <oldfilter><regex>Name:Taskfiend Caikap</regex></oldfilter>
+        <oldfilter><regex>Name:Lieutenant Commander Nak`Muram</regex></oldfilter>
+        <oldfilter><regex>Name:Strategist Kin`Muram</regex></oldfilter>
+        <oldfilter><regex>Name:Odiumate Isienne</regex></oldfilter>
+        <oldfilter><regex>Name:Cadavor Fonidan</regex></oldfilter>
+        <oldfilter><regex>Name:Miseryfiend Ghio</regex></oldfilter>
+        <oldfilter><regex>Name:Diodite Bluespark</regex></oldfilter>
+        <oldfilter><regex>Name:Fleshthreader Dashii</regex></oldfilter>
+        <oldfilter><regex>Name:Sentinel Siofet</regex></oldfilter>
+        <oldfilter><regex>Name:Battlemaster Denik</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv Hunter Lheun</regex></oldfilter>
+        <oldfilter><regex>Name:Aneuk Tyrannist</regex></oldfilter>
+        <oldfilter><regex>Name:Cleaver Wiex</regex></oldfilter>
+        <oldfilter><regex>Name:Stormer</regex></oldfilter>
+        <oldfilter><regex>Name:Captor Supplescale</regex></oldfilter>
+        <oldfilter><regex>Name:Noc Bloodluster Zieh</regex></oldfilter>
+        <oldfilter><regex>Name:Hunter Leisov</regex></oldfilter>
+        <oldfilter><regex>Name:Captor Supplescale</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

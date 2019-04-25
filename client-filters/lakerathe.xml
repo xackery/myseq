@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Advisor Sh'Orok</regex></oldfilter>
+        <oldfilter><regex>Name:Brother Drash</regex></oldfilter>
+        <oldfilter><regex>Name:Jonah Brucker</regex></oldfilter>
+        <oldfilter><regex>Name:Lord Bergugle</regex></oldfilter>
+        <oldfilter><regex>Name:Megaladon</regex></oldfilter>
+        <oldfilter><regex>Name:Prince Kyrmt Keroppi</regex></oldfilter>
+        <oldfilter><regex>Name:Princess Lenya Thex</regex></oldfilter>
+        <oldfilter><regex>Name:Turgen the Reliant</regex></oldfilter>
+        <oldfilter><regex>Name:Webclaw Murkwave</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Ancient Guardian:</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:Iksar Betrayer</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Ancient Guardian</regex></oldfilter>
+        <oldfilter><regex>Name:Battle Master Ska`tu</regex></oldfilter>
+        <oldfilter><regex>Name:Captain Di`ouz</regex></oldfilter>
+        <oldfilter><regex>Name:Foreman Ku`lul</regex></oldfilter>
+        <oldfilter><regex>Name:Grand Advisor Zum`uul</regex></oldfilter>
+        <oldfilter><regex>Name:Grand Herbalist Mak`ha</regex></oldfilter>
+        <oldfilter><regex>Name:Grave Master Zo`lun</regex></oldfilter>
+        <oldfilter><regex>Name:Haggle Baron Dry`dn</regex></oldfilter>
+        <oldfilter><regex>Name:Iksar Betrayer</regex></oldfilter>
+        <oldfilter><regex>Name:Interrogator Gi`mok</regex></oldfilter>
+        <oldfilter><regex>Name:Korocust</regex></oldfilter>
+        <oldfilter><regex>Name:Loremaster Piza`tak</regex></oldfilter>
+        <oldfilter><regex>Name:Niblek</regex></oldfilter>
+        <oldfilter><regex>Name:Observer Aq`touz</regex></oldfilter>
+        <oldfilter><regex>Name:Overseer Dal'guur</regex></oldfilter>
+        <oldfilter><regex>Name:Overking Bathezid</regex></oldfilter>
+        <oldfilter><regex>Name:Prince Selrach Di`zok</regex></oldfilter>
+        <oldfilter><regex>Name:Queen Velazul Di`zok</regex></oldfilter>
+        <oldfilter><regex>Name:Sarnak Aruspice</regex></oldfilter>
+        <oldfilter><regex>Name:The Bridge Keeper</regex></oldfilter>
+        <oldfilter><regex>Name:Vault Master Shu`zo</regex></oldfilter>
+        <oldfilter><regex>Name:Watch Captain Hir`roul</regex></oldfilter>
+        <oldfilter><regex>Name:Watch Sergeant Riz`oul</regex></oldfilter>
+        <oldfilter><regex>Name:Wraith of a Di`zok Hero</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

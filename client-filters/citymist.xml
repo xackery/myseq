@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Lord Kizaul</regex></oldfilter>
+        <oldfilter><regex>Name:#Lord_Rak`Ashiir</regex></oldfilter>
+        <oldfilter><regex>Name:#Tzirathk</regex></oldfilter>
+        <oldfilter><regex>Name:#a mist reaver</regex></oldfilter>
+        <oldfilter><regex>Name:#a shadowed invoker</regex></oldfilter>
+        <oldfilter><regex>Name:A Human Skeleton</regex></oldfilter>
+        <oldfilter><regex>Name:Army Behemoth</regex></oldfilter>
+        <oldfilter><regex>Name:Black Reaver</regex></oldfilter>
+        <oldfilter><regex>Name:Captain of the Guard</regex></oldfilter>
+        <oldfilter><regex>Name:Lhranc</regex></oldfilter>
+        <oldfilter><regex>Name:Lord Ghiosk</regex></oldfilter>
+        <oldfilter><regex>Name:Mardon</regex></oldfilter>
+        <oldfilter><regex>Name:Neh'Ashiir</regex></oldfilter>
+        <oldfilter><regex>Name:Wraith of Jaxion</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

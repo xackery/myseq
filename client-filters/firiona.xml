@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:an ancient Jarsath</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#halfling swashbuckler</regex></oldfilter>
+        <oldfilter><regex>Name:#Kwinn the Outlander</regex></oldfilter>
+        <oldfilter><regex>Name:#Realla Segoan</regex></oldfilter>
+        <oldfilter><regex>Name:#Red Eye Jack</regex></oldfilter>
+        <oldfilter><regex>Name:Sir Hobble</regex></oldfilter>
+        <oldfilter><regex>Name:a pirate cartographer</regex></oldfilter>
+        <oldfilter><regex>Name:a pirate destroyer</regex></oldfilter>
+        <oldfilter><regex>Name:an ancient Jarsath</regex></oldfilter>
+        <oldfilter><regex>Name:diseased forest giant</regex></oldfilter>
+        <oldfilter><regex>Name:froglok ton warrior</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

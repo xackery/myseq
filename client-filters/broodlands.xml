@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Viridex</regex></oldfilter>
+        <oldfilter><regex>Name:Snowclaw</regex></oldfilter>
+        <oldfilter><regex>Name:Sandpaw</regex></oldfilter>
+        <oldfilter><regex>Name:Snowbrow</regex></oldfilter>
+        <oldfilter><regex>Name:Snowfang</regex></oldfilter>
+        <oldfilter><regex>Name:Frostblind</regex></oldfilter>
+        <oldfilter><regex>Name:Grel Strongboom</regex></oldfilter>
+        <oldfilter><regex>Name:Sandrender Xigazn</regex></oldfilter>
+        <oldfilter><regex>Name:The Broodqueen</regex></oldfilter>
+        <oldfilter><regex>Name:The Jungle Walker</regex></oldfilter>
+        <oldfilter><regex>Name:Stone-Gazing Basilisk</regex></oldfilter>
+        <oldfilter><regex>Name:Frostfoot</regex></oldfilter>
+        <oldfilter><regex>Name:Flamefist</regex></oldfilter>
+        <oldfilter><regex>Name:Fireclaw</regex></oldfilter>
+        <oldfilter><regex>Name:Firefang</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

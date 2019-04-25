@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+        <oldfilter><regex>  ShowEQ Filter file</regex></oldfilter>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:Zlandicar</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Dominator Yisaki</regex></oldfilter>
+        <oldfilter><regex>Name:#Dustbinder Grakina</regex></oldfilter>
+        <oldfilter><regex>Name:#Dominator Yisaki</regex></oldfilter>
+        <oldfilter><regex>Name:#Vaniki</regex></oldfilter>
+        <oldfilter><regex>Name:Chetari Courier</regex></oldfilter>
+        <oldfilter><regex>Name:Dralliw`tar</regex></oldfilter>
+        <oldfilter><regex>Name:Entropy Serpent</regex></oldfilter>
+        <oldfilter><regex>Name:#Entropy Serpent</regex></oldfilter>
+        <oldfilter><regex>Name:Icehackle</regex></oldfilter>
+        <oldfilter><regex>Name:Jaled Dar`s shade</regex></oldfilter>
+        <oldfilter><regex>Name:Kar Sapara</regex></oldfilter>
+        <oldfilter><regex>Name:Neb</regex></oldfilter>
+        <oldfilter><regex>Name:Pierre</regex></oldfilter>
+        <oldfilter><regex>Name:Queen Raltaas</regex></oldfilter>
+        <oldfilter><regex>Name:#Queen Raltaas</regex></oldfilter>
+        <oldfilter><regex>Name:Seeker Bulava</regex></oldfilter>
+        <oldfilter><regex>Name:Slani Veekilaleeki</regex></oldfilter>
+        <oldfilter><regex>Name:Uraptin</regex></oldfilter>
+        <oldfilter><regex>Name:Vilefang</regex></oldfilter>
+        <oldfilter><regex>Name:Warmaster Utvara</regex></oldfilter>
+        <oldfilter><regex>Name:Zlandicar</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

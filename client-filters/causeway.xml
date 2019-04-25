@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Bone Cracker</regex></oldfilter>
+        <oldfilter><regex>Name:Pixt Arreand Bodybender</regex></oldfilter>
+        <oldfilter><regex>Name:Grinbar the Ancient</regex></oldfilter>
+        <oldfilter><regex>Name:Murkglider School Leader</regex></oldfilter>
+        <oldfilter><regex>Name:Slavedriver Menlo</regex></oldfilter>
+        <oldfilter><regex>Name:Ridgerunner Droongar</regex></oldfilter>
+        <oldfilter><regex>Name:a fecund murkglider</regex></oldfilter>
+        <oldfilter><regex>Name:a massive bazu</regex></oldfilter>
+        <oldfilter><regex>Name:a dragorn battleleader</regex></oldfilter>
+        <oldfilter><regex>Name:Ridgerunner Drunt</regex></oldfilter>
+        <oldfilter><regex>Name:a poisonous murkglider</regex></oldfilter>
+        <oldfilter><regex>Name:Pixt Trent</regex></oldfilter>
+        <oldfilter><regex>Name:Alpha Feran</regex></oldfilter>
+        <oldfilter><regex>Name:a deranged feran</regex></oldfilter>
+        <oldfilter><regex>Name:a feran bull</regex></oldfilter>
+        <oldfilter><regex>Name:Drarakon the Mad</regex></oldfilter>
+        <oldfilter><regex>Name:Stone Thrower</regex></oldfilter>
+        <oldfilter><regex>Name:a feran packleader</regex></oldfilter>
+        <oldfilter><regex>Name:an ukun packmaster</regex></oldfilter>
+        <oldfilter><regex>Name:an aggressive murkglider</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

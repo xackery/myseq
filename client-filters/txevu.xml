@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:High Priest Nkosi Bakari</regex></oldfilter>
+        <oldfilter><regex>Name:Zun`Muram Tkarish Zyk</regex></oldfilter>
+        <oldfilter><regex>Name:Ancient Cragbeast Matriarch</regex></oldfilter>
+        <oldfilter><regex>Name:Ikaav Nysf Lleiv</regex></oldfilter>
+        <oldfilter><regex>Name:Aneuk Nyrt Ymosa</regex></oldfilter>
+        <oldfilter><regex>Name:Aneuk Rilst Uskst</regex></oldfilter>
+        <oldfilter><regex>Name:Ixt Hsek Syat</regex></oldfilter>
+        <oldfilter><regex>Name:Ixt Kial Ivesi</regex></oldfilter>
+        <oldfilter><regex>Name:Ukun Bloodfeaster</regex></oldfilter>
+        <oldfilter><regex>Name:Ixt Quall Nalnn</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

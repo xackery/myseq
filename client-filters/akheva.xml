@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Transient Centi</regex></oldfilter>
+        <oldfilter><regex>Name:Transient Patroller</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Akuel`Tekar</regex></oldfilter>
+        <oldfilter><regex>Name:#Diabo`Gel`Temeriel</regex></oldfilter>
+        <oldfilter><regex>Name:#Itraer`Renthias</regex></oldfilter>
+        <oldfilter><regex>Name:#The Insanity Crawler</regex></oldfilter>
+        <oldfilter><regex>Name:#Shei Vinitras</regex></oldfilter>
+        <oldfilter><regex>Name:#Vius`Tekar</regex></oldfilter>
+        <oldfilter><regex>Name:A chanting Centi</regex></oldfilter>
+        <oldfilter><regex>Name:A chanting shade</regex></oldfilter>
+        <oldfilter><regex>Name:Akuel Centi</regex></oldfilter>
+        <oldfilter><regex>Name:Apprentice Keeper</regex></oldfilter>
+        <oldfilter><regex>Name:Atulinae`Vius</regex></oldfilter>
+        <oldfilter><regex>Name:Centi Thall</regex></oldfilter>
+        <oldfilter><regex>Name:Fer`Tatrau Centi</regex></oldfilter>
+        <oldfilter><regex>Name:Gel`Temeriel Centi</regex></oldfilter>
+        <oldfilter><regex>Name:Renthias`Dator</regex></oldfilter>
+        <oldfilter><regex>Name:Rygan Anisher</regex></oldfilter>
+        <oldfilter><regex>Name:Sacrificed Remains</regex></oldfilter>
+        <oldfilter><regex>Name:Sheleric Vis</regex></oldfilter>
+        <oldfilter><regex>Name:Shrouded Anisher</regex></oldfilter>
+        <oldfilter><regex>Name:Teka`Temariel Centi</regex></oldfilter>
+        <oldfilter><regex>Name:The Itraer Vius</regex></oldfilter>
+        <oldfilter><regex>Name:The Protector</regex></oldfilter>
+        <oldfilter><regex>Name:The Va`Dyn</regex></oldfilter>
+        <oldfilter><regex>Name:Transient Centi</regex></oldfilter>
+        <oldfilter><regex>Name:Transient Patroller</regex></oldfilter>
+        <oldfilter><regex>Name:Vius Centi</regex></oldfilter>
+        <oldfilter><regex>Name:Vius Tatrua</regex></oldfilter>
+        <oldfilter><regex>Name:Xaui Tatrua</regex></oldfilter>
+        <oldfilter><regex>Name:Xi Xaui</regex></oldfilter>
+        <oldfilter><regex>Name:Xin Thall</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

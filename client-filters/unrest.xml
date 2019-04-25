@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#a herald of mischief</regex></oldfilter>
+        <oldfilter><regex>Name:Blade Fiend</regex></oldfilter>
+        <oldfilter><regex>Name:Garanel Rucksif</regex></oldfilter>
+        <oldfilter><regex>Name:Ghoul Magi</regex></oldfilter>
+        <oldfilter><regex>Name:Khrix Fritchoff</regex></oldfilter>
+        <oldfilter><regex>Name:Khrix's Abomination</regex></oldfilter>
+        <oldfilter><regex>Name:Lesser Blade Fiend</regex></oldfilter>
+        <oldfilter><regex>Name:Re animated Hand</regex></oldfilter>
+        <oldfilter><regex>Name:Reanimated Hand</regex></oldfilter>
+        <oldfilter><regex>Name:Reclusive Ghoul Magi</regex></oldfilter>
+        <oldfilter><regex>Name:Serra</regex></oldfilter>
+        <oldfilter><regex>Name:Shadowpincer</regex></oldfilter>
+        <oldfilter><regex>Name:Torklar Battlemaster</regex></oldfilter>
+        <oldfilter><regex>Name:Undead Barkeep</regex></oldfilter>
+        <oldfilter><regex>Name:Undead Knight</regex></oldfilter>
+        <oldfilter><regex>Name:Zombie of an unrest noble</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

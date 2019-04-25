@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:#An Ancient Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:A Realistic Stonegrabber</regex></oldfilter>
+        <oldfilter><regex>Name:A Corrupted Hivemistress</regex></oldfilter>
+        <oldfilter><regex>Name:The Spire Lord</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:A Defiant Spire Spirit</regex></oldfilter>
+        <oldfilter><regex>Name:A Dread Horror</regex></oldfilter>
+        <oldfilter><regex>Name:A Dread Thought Leech</regex></oldfilter>
+        <oldfilter><regex>Name:A Mind Leech</regex></oldfilter>
+        <oldfilter><regex>Name:A Powerful Thought Leech</regex></oldfilter>
+        <oldfilter><regex>Name:A Quiet Spire Spirit</regex></oldfilter>
+        <oldfilter><regex>Name:A Weathered Spire Spirit</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

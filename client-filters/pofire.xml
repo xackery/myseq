@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Guardian of Doomfire</regex></oldfilter>
+        <oldfilter><regex>Name:Dark Obsidian Lava Spider</regex></oldfilter>
+        <oldfilter><regex>Name:Obsidian Tree Spider Queen</regex></oldfilter>
+        <oldfilter><regex>Name:Obsidian Tree War Spider</regex></oldfilter>
+        <oldfilter><regex>Name:Flame Wilder</regex></oldfilter>
+        <oldfilter><regex>Name:Wildfiry Spiritsteed</regex></oldfilter>
+        <oldfilter><regex>Name:Jopal Seer</regex></oldfilter>
+        <oldfilter><regex>Name:Jopal Chieftain</regex></oldfilter>
+        <oldfilter><regex>Name:Jopal Flame Protector</regex></oldfilter>
+        <oldfilter><regex>Name:Jopal Tracker</regex></oldfilter>
+        <oldfilter><regex>Name:Captain of Fire</regex></oldfilter>
+        <oldfilter><regex>Name:Sorcerer of Fire</regex></oldfilter>
+        <oldfilter><regex>Name:Charmer of Fire</regex></oldfilter>
+        <oldfilter><regex>Name:Magma Overlord</regex></oldfilter>
+        <oldfilter><regex>Name:Fiery Spirit Overlord</regex></oldfilter>
+        <oldfilter><regex>Name:Fiery Spirit Equine Overlord</regex></oldfilter>
+        <oldfilter><regex>Name:Doomfire Firecharmer</regex></oldfilter>
+        <oldfilter><regex>Name:Doomfire Magus</regex></oldfilter>
+        <oldfilter><regex>Name:Doomfire Warmaster</regex></oldfilter>
+        <oldfilter><regex>Name:Doomfire Warlord</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Blazzax the Omnifiend</regex></oldfilter>
+        <oldfilter><regex>Name:General Druav Flamesinger</regex></oldfilter>
+        <oldfilter><regex>Name:Jaxoliz Dawneyes</regex></oldfilter>
+        <oldfilter><regex>Name:Criare Sunmane</regex></oldfilter>
+        <oldfilter><regex>Name:Quavonis Firetail</regex></oldfilter>
+        <oldfilter><regex>Name:Pyronis</regex></oldfilter>
+        <oldfilter><regex>Name:Babnoxis the Spider Queen</regex></oldfilter>
+        <oldfilter><regex>Name:Magmaton</regex></oldfilter>
+        <oldfilter><regex>Name:Arch Mage Yozanni</regex></oldfilter>
+        <oldfilter><regex>Name:General Reparm</regex></oldfilter>
+        <oldfilter><regex>Name:Guardian of Doomfire</regex></oldfilter>
+        <oldfilter><regex>Name:Reaxnous the Chaoslord</regex></oldfilter>
+        <oldfilter><regex>Name:Azoblan the Darklord</regex></oldfilter>
+        <oldfilter><regex>Name:Hebabbilys the Ragelord</regex></oldfilter>
+        <oldfilter><regex>Name:Javonn the Overlord</regex></oldfilter>
+        <oldfilter><regex>Name:Chancellor Traxom</regex></oldfilter>
+        <oldfilter><regex>Name:Chancellor Kirtra</regex></oldfilter>
+        <oldfilter><regex>Name:Omni Magus Crato</regex></oldfilter>
+        <oldfilter><regex>Name:Warlord Prollaz</regex></oldfilter>
+        <oldfilter><regex>Name:Fennin Ro</regex></oldfilter>
+        <oldfilter><regex>Name:Obsidian Tree Spider Queen</regex></oldfilter>
+        <oldfilter><regex>Name:Obsidian Tree War Spider</regex></oldfilter>
+        <oldfilter><regex>Name:Flame Wilder</regex></oldfilter>
+        <oldfilter><regex>Name:Wildfiry Spiritsteed</regex></oldfilter>
+        <oldfilter><regex>Name:Jopal Seer</regex></oldfilter>
+        <oldfilter><regex>Name:Jopal Chieftain</regex></oldfilter>
+        <oldfilter><regex>Name:Jopal Flame Protector</regex></oldfilter>
+        <oldfilter><regex>Name:Jopal Tracker</regex></oldfilter>
+        <oldfilter><regex>Name:Captain of Fire</regex></oldfilter>
+        <oldfilter><regex>Name:Sorcerer of Fire</regex></oldfilter>
+        <oldfilter><regex>Name:Charmer of Fire</regex></oldfilter>
+        <oldfilter><regex>Name:Magma Overlord</regex></oldfilter>
+        <oldfilter><regex>Name:Fiery Spirit Overlord</regex></oldfilter>
+        <oldfilter><regex>Name:Fiery Spirit Equine Overlord</regex></oldfilter>
+        <oldfilter><regex>Name:Doomfire Firecharmer</regex></oldfilter>
+        <oldfilter><regex>Name:Doomfire Magus</regex></oldfilter>
+        <oldfilter><regex>Name:Doomfire Warmaster</regex></oldfilter>
+        <oldfilter><regex>Name:Doomfire Warlord</regex></oldfilter>
+        <oldfilter><regex>Name:Dark Obsidian Lava Spider</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+        <oldfilter><regex>Race:Door</regex></oldfilter>
+    </section>
+</seqfilters>

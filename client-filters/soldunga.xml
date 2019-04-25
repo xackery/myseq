@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Solusek goblin king</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Captain Bipnubble</regex></oldfilter>
+        <oldfilter><regex>Name:CWG Model EXG</regex></oldfilter>
+        <oldfilter><regex>Name:Fire Goblin Bartender</regex></oldfilter>
+        <oldfilter><regex>Name:Flame Goblin Foreman</regex></oldfilter>
+        <oldfilter><regex>Name:Gabbie Mardoddle</regex></oldfilter>
+        <oldfilter><regex>Name:Inferno Goblin Captain</regex></oldfilter>
+        <oldfilter><regex>Name:inferno goblin torturer</regex></oldfilter>
+        <oldfilter><regex>Name:Kindle</regex></oldfilter>
+        <oldfilter><regex>Name:Lava Elemental</regex></oldfilter>
+        <oldfilter><regex>Name:Lynada The Exiled</regex></oldfilter>
+        <oldfilter><regex>Name:Marfen Binkdirple</regex></oldfilter>
+        <oldfilter><regex>Name:Model EXG</regex></oldfilter>
+        <oldfilter><regex>Name:Reckless Efreeti</regex></oldfilter>
+        <oldfilter><regex>Name:Solusek Goblin Bartender</regex></oldfilter>
+        <oldfilter><regex>Name:Solusek Goblin Drunkard</regex></oldfilter>
+        <oldfilter><regex>Name:Solusek Goblin High Shaman</regex></oldfilter>
+        <oldfilter><regex>Name:Solusek goblin king</regex></oldfilter>
+        <oldfilter><regex>Name:Singe</regex></oldfilter>
+        <oldfilter><regex>Name:kobold predator</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

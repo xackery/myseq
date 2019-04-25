@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Bazu Destroyer</regex></oldfilter>
+        <oldfilter><regex>Name:Bazu Bonesmasher</regex></oldfilter>
+        <oldfilter><regex>Name:Feran Bloodkeeper</regex></oldfilter>
+        <oldfilter><regex>Name:Feran Savageclaw</regex></oldfilter>
+        <oldfilter><regex>Name:Dragorn Turretkeeper</regex></oldfilter>
+        <oldfilter><regex>Name:Noc Shadowkeeper</regex></oldfilter>
+        <oldfilter><regex>Name:Girplan Mastercrafter</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv Assassin</regex></oldfilter>
+        <oldfilter><regex>Name:Velitorkin</regex></oldfilter>
+        <oldfilter><regex>Name:Shadowhunter</regex></oldfilter>
+        <oldfilter><regex>Name:Chimera Deathbringer</regex></oldfilter>
+        <oldfilter><regex>Name:Chimera Seether</regex></oldfilter>
+        <oldfilter><regex>Name:Ukun Tendonslicer</regex></oldfilter>
+        <oldfilter><regex>Name:Discordling Chaosfiend</regex></oldfilter>
+        <oldfilter><regex>Name:Girplan Taskmaster</regex></oldfilter>
+        <oldfilter><regex>Name:Dragorn Blightkeeper</regex></oldfilter>
+        <oldfilter><regex>Name:Discordling Warfiend</regex></oldfilter>
+        <oldfilter><regex>Name:Dragorn Strategist</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv Pureshot</regex></oldfilter>
+        <oldfilter><regex>Name:Pyrique Redwing</regex></oldfilter>
+        <oldfilter><regex>Name:Dragorn Nightwalker</regex></oldfilter>
+        <oldfilter><regex>Name:Ukun Fleshflayer</regex></oldfilter>
+        <oldfilter><regex>Name:Hulcror</regex></oldfilter>
+        <oldfilter><regex>Name:Noc Bonecleaver</regex></oldfilter>
+        <oldfilter><regex>Name:Discordling Bloodfiend</regex></oldfilter>
+        <oldfilter><regex>Name:The Murkglider Hivequeen</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

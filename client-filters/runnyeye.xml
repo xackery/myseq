@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Borxx</regex></oldfilter>
+        <oldfilter><regex>Name:Dazed Goblin Javelineer</regex></oldfilter>
+        <oldfilter><regex>Name:Gelatinous Cube</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Captain</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin King</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Knight</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Warlord</regex></oldfilter>
+        <oldfilter><regex>Name:Jailmaster</regex></oldfilter>
+        <oldfilter><regex>Name:Slime Elemental</regex></oldfilter>
+        <oldfilter><regex>Name:The Goblin King</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

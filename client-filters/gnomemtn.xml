@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<seqfilters>
+    <section name="Hunt">
+	<oldfilter><regex>Name:Ambassador of Loving</regex></oldfilter>
+	<oldfilter><regex>Name:Beast Museum Security</regex></oldfilter>
+	<oldfilter><regex>Name:Bloodmoon Chief Eclipse</regex></oldfilter>
+	<oldfilter><regex>Name:Bloodmoon Howler Trolog</regex></oldfilter>
+	<oldfilter><regex>Name:Breaker</regex></oldfilter>
+	<oldfilter><regex>Name:Consul of Cooperation</regex></oldfilter>
+	<oldfilter><regex>Name:Healer Prime</regex></oldfilter>
+	<oldfilter><regex>Name:Malfunctioning Iron Legion Hug</regex></oldfilter>
+	<oldfilter><regex>Name:Master Mechanic</regex></oldfilter>
+	<oldfilter><regex>Name:A Non-Standard Deviation</regex></oldfilter>
+	<oldfilter><regex>Name:Repair for Pieces</regex></oldfilter>
+	<oldfilter><regex>Name:Tatters</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+    </section>
+    <section name="Filtered">
+    </section>
+    <section name="Email">
+    </section>
+</seqfilters>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Coerced Crusader</regex></oldfilter>
+        <oldfilter><regex>Name:Coerced Penkeeper</regex></oldfilter>
+        <oldfilter><regex>Name:Coerced Revenant</regex></oldfilter>
+        <oldfilter><regex>Name:Coerced Smith</regex></oldfilter>
+        <oldfilter><regex>Name:Kly Imprecator</regex></oldfilter>
+        <oldfilter><regex>Name:Kly Overseer</regex></oldfilter>
+        <oldfilter><regex>Name:Lumpy Goo</regex></oldfilter>
+        <oldfilter><regex>Name:Overseer of Kly</regex></oldfilter>
+        <oldfilter><regex>Name:Spectral Crusader</regex></oldfilter>
+        <oldfilter><regex>Name:The undead entity</regex></oldfilter>
+        <oldfilter><regex>Name:the Kly Overseer</regex></oldfilter>
+        <oldfilter><regex>Name:Undead Bartender</regex></oldfilter>
+        <oldfilter><regex>Name:Undead Blacksmith</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:#Malinan Grobbsby</regex></oldfilter>
+        <oldfilter><regex>Name:#Melferious Ronn</regex></oldfilter>
+        <oldfilter><regex>Name:#Gryme the Crypt Guardian</regex></oldfilter>
+        <oldfilter><regex>Name:#Grummus</regex></oldfilter>
+        <oldfilter><regex>Name:Grimror Plaguebringer</regex></oldfilter>
+        <oldfilter><regex>Name:#Aramin the Spider Guardian</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Malinan Grobbsby</regex></oldfilter>
+        <oldfilter><regex>Name:#Melferious Ronn</regex></oldfilter>
+        <oldfilter><regex>Name:#Gryme the Crypt Guardian</regex></oldfilter>
+        <oldfilter><regex>Name:#Grummus</regex></oldfilter>
+        <oldfilter><regex>Name:Grimror Plaguebringer</regex></oldfilter>
+        <oldfilter><regex>Name:#Aramin the Spider Guardian</regex></oldfilter>
+        <oldfilter><regex>Name:planarian larva, a</regex></oldfilter>
+        <oldfilter><regex>Name:malarian larva, a</regex></oldfilter>
+        <oldfilter><regex>Name:tsetsian pupa, a</regex></oldfilter>
+        <oldfilter><regex>Name:tachnian caterpillar, a</regex></oldfilter>
+        <oldfilter><regex>Name:generian larva, a</regex></oldfilter>
+        <oldfilter><regex>Name:sengian larva, a</regex></oldfilter>
+        <oldfilter><regex>Name:scaevian larva,a</regex></oldfilter>
+        <oldfilter><regex>Name:harrion larva,a</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

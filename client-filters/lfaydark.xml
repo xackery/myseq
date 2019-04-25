@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:brownie scout</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Crookstinger</regex></oldfilter>
+        <oldfilter><regex>Name:Equestrielle the Corrupted</regex></oldfilter>
+        <oldfilter><regex>Name:Ghoul Boss</regex></oldfilter>
+        <oldfilter><regex>Name:Mina Glimmerwing</regex></oldfilter>
+        <oldfilter><regex>Name:Old Dimshimmer</regex></oldfilter>
+        <oldfilter><regex>Name:Orc Chief</regex></oldfilter>
+        <oldfilter><regex>Name:Pained Unicorn</regex></oldfilter>
+        <oldfilter><regex>Name:Queen Nasheeji</regex></oldfilter>
+        <oldfilter><regex>Name:Shadowed Man Leader</regex></oldfilter>
+        <oldfilter><regex>Name:Thistle Underbrush</regex></oldfilter>
+        <oldfilter><regex>Name:Whimsy Larktwitter</regex></oldfilter>
+        <oldfilter><regex>Name:an emperor fae drake</regex></oldfilter>
+        <oldfilter><regex>Name:pained unicorn</regex></oldfilter>
+        <oldfilter><regex>Name:tainted brownie</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

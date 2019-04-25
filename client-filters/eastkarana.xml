@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Broon</regex></oldfilter>
+        <oldfilter><regex>Name:Droon</regex></oldfilter>
+        <oldfilter><regex>Name:Proon</regex></oldfilter>
+        <oldfilter><regex>Name:Tarbul Earthstrider</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Izera N`Kar</regex></oldfilter>
+        <oldfilter><regex>Name:Broon</regex></oldfilter>
+        <oldfilter><regex>Name:Chief SaNre'Rexxa</regex></oldfilter>
+        <oldfilter><regex>Name:Dark Elf Corruptor</regex></oldfilter>
+        <oldfilter><regex>Name:Dark Elf Reaver</regex></oldfilter>
+        <oldfilter><regex>Name:Droon</regex></oldfilter>
+        <oldfilter><regex>Name:Emhu Mucktail</regex></oldfilter>
+        <oldfilter><regex>Name:Fang</regex></oldfilter>
+        <oldfilter><regex>Name:Grennix Mucktail</regex></oldfilter>
+        <oldfilter><regex>Name:Jairn</regex></oldfilter>
+        <oldfilter><regex>Name:Proon</regex></oldfilter>
+        <oldfilter><regex>Name:Splintered Claw</regex></oldfilter>
+        <oldfilter><regex>Name:Tallus Holton</regex></oldfilter>
+        <oldfilter><regex>Name:Tarbul Earthstrider</regex></oldfilter>
+        <oldfilter><regex>Name:Vexven Mucktail</regex></oldfilter>
+        <oldfilter><regex>Name:twisted ajrah treant</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

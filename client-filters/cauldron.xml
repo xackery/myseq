@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Llara</regex></oldfilter>
+        <oldfilter><regex>Name:Barnacle Bones</regex></oldfilter>
+        <oldfilter><regex>Name:Bilge Farfathom</regex></oldfilter>
+        <oldfilter><regex>Name:Boondin Babbinsbort</regex></oldfilter>
+        <oldfilter><regex>Name:Brahhm</regex></oldfilter>
+        <oldfilter><regex>Name:Corium Darkblade</regex></oldfilter>
+        <oldfilter><regex>Name:Dwigus Lowater</regex></oldfilter>
+        <oldfilter><regex>Name:Exiled Legionnaire</regex></oldfilter>
+        <oldfilter><regex>Name:Flotsam</regex></oldfilter>
+        <oldfilter><regex>Name:Ghilanbiddle Nylwadil</regex></oldfilter>
+        <oldfilter><regex>Name:Glubbsink</regex></oldfilter>
+        <oldfilter><regex>Name:Gundalthur Izuran</regex></oldfilter>
+        <oldfilter><regex>Name:Gynok Moltor</regex></oldfilter>
+        <oldfilter><regex>Name:Jetsam</regex></oldfilter>
+        <oldfilter><regex>Name:Jinalis Andir</regex></oldfilter>
+        <oldfilter><regex>Name:Llaracom</regex></oldfilter>
+        <oldfilter><regex>Name:Splintered Claw</regex></oldfilter>
+        <oldfilter><regex>Name:Squallslither</regex></oldfilter>
+        <oldfilter><regex>Name:Yymp the Infernal</regex></oldfilter>
+        <oldfilter><regex>Name:aqua goblin tidal lord</regex></oldfilter>
+        <oldfilter><regex>Name:an exiled legionnaire</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

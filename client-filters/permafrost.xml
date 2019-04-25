@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Lady Vox</regex></oldfilter>
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:Lady Vox</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Elite Honor Guard</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Alchemist</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Archeologist</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Champion</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Jail Master</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin JailMaster</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Patriarch</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Preacher</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Scryer</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Warlord</regex></oldfilter>
+        <oldfilter><regex>Name:High Priest Zaharn</regex></oldfilter>
+        <oldfilter><regex>Name:Ice Giant Diplomat</regex></oldfilter>
+        <oldfilter><regex>Name:Ice Goblin Alchemist</regex></oldfilter>
+        <oldfilter><regex>Name:Ice Goblin Champion</regex></oldfilter>
+        <oldfilter><regex>Name:Ice Goblin Patriarch</regex></oldfilter>
+        <oldfilter><regex>Name:Ice Goblin Preacher</regex></oldfilter>
+        <oldfilter><regex>Name:Ice Goblin Scryer</regex></oldfilter>
+        <oldfilter><regex>Name:Injured Polar Bear</regex></oldfilter>
+        <oldfilter><regex>Name:King Tearis Thex</regex></oldfilter>
+        <oldfilter><regex>Name:King Thex'Ka IV</regex></oldfilter>
+        <oldfilter><regex>Name:Lady Vox</regex></oldfilter>
+        <oldfilter><regex>Name:Priest of Nagafen</regex></oldfilter>
+        <oldfilter><regex>Name:Sludge Dankmire</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

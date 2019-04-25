@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:#Aaryonar</regex></oldfilter>
+        <oldfilter><regex>Name:#Eashen of the Sky</regex></oldfilter>
+        <oldfilter><regex>Name:#Gozzrem</regex></oldfilter>
+        <oldfilter><regex>Name:#Telkorenar</regex></oldfilter>
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:#Ikatiar the Venom</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Aaryonar</regex></oldfilter>
+        <oldfilter><regex>Name:#Casalen</regex></oldfilter>
+        <oldfilter><regex>Name:#Cekenar</regex></oldfilter>
+        <oldfilter><regex>Name:#Cyndor Lightningfang</regex></oldfilter>
+        <oldfilter><regex>Name:#Dozekar the Cursed</regex></oldfilter>
+        <oldfilter><regex>Name:#Eashen of the Sky</regex></oldfilter>
+        <oldfilter><regex>Name:#Essedera</regex></oldfilter>
+        <oldfilter><regex>Name:#Feshlak ChkOne</regex></oldfilter>
+        <oldfilter><regex>Name:#Gozzrem</regex></oldfilter>
+        <oldfilter><regex>Name:#Grozzmel</regex></oldfilter>
+        <oldfilter><regex>Name:#Ikatiar the Venom</regex></oldfilter>
+        <oldfilter><regex>Name:#Jorlleag</regex></oldfilter>
+        <oldfilter><regex>Name:#Kalkar of the Maelstrom</regex></oldfilter>
+        <oldfilter><regex>Name:#Krigara</regex></oldfilter>
+        <oldfilter><regex>Name:#Lady Mirenilla</regex></oldfilter>
+        <oldfilter><regex>Name:#Lady Nevederia</regex></oldfilter>
+        <oldfilter><regex>Name:#Lendiniara the Keeper</regex></oldfilter>
+        <oldfilter><regex>Name:#Lord Feshlak</regex></oldfilter>
+        <oldfilter><regex>Name:#Lord Koi`Doken</regex></oldfilter>
+        <oldfilter><regex>Name:#Lord Kreizenn</regex></oldfilter>
+        <oldfilter><regex>Name:#Lord Vyemm</regex></oldfilter>
+        <oldfilter><regex>Name:#Malteor Flamecaller</regex></oldfilter>
+        <oldfilter><regex>Name:#Midayor</regex></oldfilter>
+        <oldfilter><regex>Name:#Quellod Earthspirit</regex></oldfilter>
+        <oldfilter><regex>Name:#Sevalak</regex></oldfilter>
+        <oldfilter><regex>Name:#Tavekalem</regex></oldfilter>
+        <oldfilter><regex>Name:#Telkorenar</regex></oldfilter>
+        <oldfilter><regex>Name:#Thylex of Veeshan</regex></oldfilter>
+        <oldfilter><regex>Name:#Vyldin Flamereaver</regex></oldfilter>
+        <oldfilter><regex>Name:#Ymmeln</regex></oldfilter>
+        <oldfilter><regex>Name:#Yrrindor Emerald Claw</regex></oldfilter>
+        <oldfilter><regex>Name:#Zemm</regex></oldfilter>
+        <oldfilter><regex>Name:#Zlexak</regex></oldfilter>
+        <oldfilter><regex>Name:Arreken Skyward</regex></oldfilter>
+        <oldfilter><regex>Name:Beldion Icewind</regex></oldfilter>
+        <oldfilter><regex>Name:Belijor the Emerald Eye</regex></oldfilter>
+        <oldfilter><regex>Name:Bryrym</regex></oldfilter>
+        <oldfilter><regex>Name:Carx`Vean</regex></oldfilter>
+        <oldfilter><regex>Name:Casalen</regex></oldfilter>
+        <oldfilter><regex>Name:Cekenar</regex></oldfilter>
+        <oldfilter><regex>Name:Dagarn the Destroyer</regex></oldfilter>
+        <oldfilter><regex>Name:Gra`Vloren</regex></oldfilter>
+        <oldfilter><regex>Name:Hsrek</regex></oldfilter>
+        <oldfilter><regex>Name:Kal`Vunar</regex></oldfilter>
+        <oldfilter><regex>Name:Kedrak</regex></oldfilter>
+        <oldfilter><regex>Name:Lady Mirenilla</regex></oldfilter>
+        <oldfilter><regex>Name:Lord Koi`Doken</regex></oldfilter>
+        <oldfilter><regex>Name:Lurian</regex></oldfilter>
+        <oldfilter><regex>Name:Mazrien</regex></oldfilter>
+        <oldfilter><regex>Name:Meldikor the Windchaser</regex></oldfilter>
+        <oldfilter><regex>Name:Nelaarn the Ebon Claw</regex></oldfilter>
+        <oldfilter><regex>Name:Nir`Tan</regex></oldfilter>
+        <oldfilter><regex>Name:Sevalak</regex></oldfilter>
+        <oldfilter><regex>Name:Tavekalem</regex></oldfilter>
+        <oldfilter><regex>Name:Telkorenar</regex></oldfilter>
+        <oldfilter><regex>Name:Theldek the Stinger</regex></oldfilter>
+        <oldfilter><regex>Name:Wel`Wnas</regex></oldfilter>
+        <oldfilter><regex>Name:Yendilor the Cerulean Wing</regex></oldfilter>
+        <oldfilter><regex>Name:Zyerek Onyxblood</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

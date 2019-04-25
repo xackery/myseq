@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Grachnist the Destroyer</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Elerabeth</regex></oldfilter>
+        <oldfilter><regex>Name:Forest Giant Avenger</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Trainer</regex></oldfilter>
+        <oldfilter><regex>Name:Grachnist the Destroyer</regex></oldfilter>
+        <oldfilter><regex>Name:Iksar Bandit Lord</regex></oldfilter>
+        <oldfilter><regex>Name:Pit Fighter Dob</regex></oldfilter>
+        <oldfilter><regex>Name:Ssolet Draas</regex></oldfilter>
+        <oldfilter><regex>Name:a rogue shaman</regex></oldfilter>
+        <oldfilter><regex>Name:a shady goblin</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

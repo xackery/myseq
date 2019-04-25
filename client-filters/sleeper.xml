@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Drakeen Apprentice</regex></oldfilter>
+        <oldfilter><regex>Name:Drakeen Controller</regex></oldfilter>
+        <oldfilter><regex>Name:Drakeen Protector</regex></oldfilter>
+        <oldfilter><regex>Name:Forbidding Gargoyle</regex></oldfilter>
+        <oldfilter><regex>Name:Furious Phantasm</regex></oldfilter>
+        <oldfilter><regex>Name:Hraashna the Warder</regex></oldfilter>
+        <oldfilter><regex>Name:Kerafyrm</regex></oldfilter>
+        <oldfilter><regex>Name:Kildrukaun the Ancient</regex></oldfilter>
+        <oldfilter><regex>Name:Master of the Guard</regex></oldfilter>
+        <oldfilter><regex>Name:Milas An`Rev</regex></oldfilter>
+        <oldfilter><regex>Name:Nanzata the Warder</regex></oldfilter>
+        <oldfilter><regex>Name:Sinister Gargoyle</regex></oldfilter>
+        <oldfilter><regex>Name:The Final Arbiter</regex></oldfilter>
+        <oldfilter><regex>Name:The Progenitor</regex></oldfilter>
+        <oldfilter><regex>Name:Tjudawos the Ancient</regex></oldfilter>
+        <oldfilter><regex>Name:Tukaarak the Warder</regex></oldfilter>
+        <oldfilter><regex>Name:Ventani the Warder</regex></oldfilter>
+        <oldfilter><regex>Name:Vyskudra the Ancient</regex></oldfilter>
+        <oldfilter><regex>Name:Wyvern Fanatic</regex></oldfilter>
+        <oldfilter><regex>Name:Zeixshi'Kar the Ancient</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

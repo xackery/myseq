@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Race:Wurm:.*:Light:LL</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Narandi the Wretched:</regex><level min="50" max="70"/></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Coldain War Wolf</regex></oldfilter>
+        <oldfilter><regex>Name:#Drakkel Blood Wolf</regex></oldfilter>
+        <oldfilter><regex>Name:#Gorul Longshanks</regex></oldfilter>
+        <oldfilter><regex>Name:#Icetooth</regex></oldfilter>
+        <oldfilter><regex>Name:#Shardtooth</regex></oldfilter>
+        <oldfilter><regex>Name:#Murdrick Tardok</regex></oldfilter>
+        <oldfilter><regex>Name:#Yaka Razorhoof</regex></oldfilter>
+        <oldfilter><regex>Name:Bekerak Coldbones</regex></oldfilter>
+        <oldfilter><regex>Name:Captain Stonefist</regex></oldfilter>
+        <oldfilter><regex>Name:Coldain Smuggler</regex></oldfilter>
+        <oldfilter><regex>Name:Fergul Frostsky</regex></oldfilter>
+        <oldfilter><regex>Name:Gralk Dwarfkiller</regex></oldfilter>
+        <oldfilter><regex>Name:Kromrif Elite Guard</regex></oldfilter>
+        <oldfilter><regex>Name:Narandi the Wretched:</regex><level min="50" max="70"/></oldfilter>
+        <oldfilter><regex>Name:Relik</regex></oldfilter>
+        <oldfilter><regex>Name:Shardwurm Broodmother</regex></oldfilter>
+        <oldfilter><regex>Name:Shardwurm Matriarch</regex></oldfilter>
+        <oldfilter><regex>Name:Taskmaster Abyott</regex></oldfilter>
+        <oldfilter><regex>Name:Tizmak Spiritcaller</regex></oldfilter>
+        <oldfilter><regex>Name:Vores the Hunter</regex></oldfilter>
+        <oldfilter><regex>Race:Wurm:.*:Light:LL</regex></oldfilter>
+        <oldfilter><regex>Name:Yaka Razorhoof</regex></oldfilter>
+        <oldfilter><regex>Name:a crystaline shardwurm</regex></oldfilter>
+        <oldfilter><regex>Name:shardwurm broodmother</regex></oldfilter>
+        <oldfilter><regex>Name:shardwurm matriarch</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

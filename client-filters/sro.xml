@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Terrorantula</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:sand giant</regex></oldfilter>
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:Ancient Cyclops</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Izera N`Kar</regex></oldfilter>
+        <oldfilter><regex>Name:Drybone Skeleton</regex></oldfilter>
+        <oldfilter><regex>Name:Erg Bluntbruiser</regex></oldfilter>
+        <oldfilter><regex>Name:Terrorantula</regex></oldfilter>
+        <oldfilter><regex>Name:Young Ronin</regex></oldfilter>
+        <oldfilter><regex>Name:Sandgiant Husam</regex></oldfilter>
+        <oldfilter><regex>Name:a sand mummy</regex></oldfilter>
+        <oldfilter><regex>Name:an ancient cyclops</regex></oldfilter>
+        <oldfilter><regex>Name:dry bones skeleton</regex></oldfilter>
+        <oldfilter><regex>Name:orc oracle</regex></oldfilter>
+        <oldfilter><regex>Name:sand giant</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

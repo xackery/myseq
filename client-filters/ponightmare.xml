@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#The Bullyrag Bat</regex></oldfilter>
+        <oldfilter><regex>Name:#a bullyrag bat</regex></oldfilter>
+        <oldfilter><regex>Name:#an agony mephit</regex></oldfilter>
+        <oldfilter><regex>Name:Untel`Dak</regex></oldfilter>
+        <oldfilter><regex>Name:#a painwrack hobgoblin</regex></oldfilter>
+        <oldfilter><regex>Name:#a fearsome hobgoblin</regex></oldfilter>
+        <oldfilter><regex>Name:A Construct of Nightmares</regex></oldfilter>
+        <oldfilter><regex>Name:An Infernal Consort</regex></oldfilter>
+        <oldfilter><regex>Name:Terror Matriarch</regex></oldfilter>
+        <oldfilter><regex>Name:The Hobgoblin Anguish Lord</regex></oldfilter>
+        <oldfilter><regex>Name:Mujaki the Devourer</regex></oldfilter>
+        <oldfilter><regex>Name:Vhaksiz the Shade</regex></oldfilter>
+        <oldfilter><regex>Name:Deyid The Twisted</regex></oldfilter>
+        <oldfilter><regex>Name:Terris Thule</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+        <oldfilter><regex>Race:Door</regex></oldfilter>
+    </section>
+</seqfilters>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:a reclusive lavaspinner</regex></oldfilter>
+        <oldfilter><regex>Name:Crimsonwing</regex></oldfilter>
+        <oldfilter><regex>Name:Burningfang</regex></oldfilter>
+        <oldfilter><regex>Name:Spider Broodmother</regex></oldfilter>
+        <oldfilter><regex>Name:Dark Webspinner</regex></oldfilter>
+        <oldfilter><regex>Name:Ezekl the Charred</regex></oldfilter>
+        <oldfilter><regex>Name:Stonemaw</regex></oldfilter>
+        <oldfilter><regex>Name:Poisonfang</regex></oldfilter>
+        <oldfilter><regex>Name:Stonecluster</regex></oldfilter>
+        <oldfilter><regex>Name:Rysok the Vile</regex></oldfilter>
+        <oldfilter><regex>Name:Smoketail</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

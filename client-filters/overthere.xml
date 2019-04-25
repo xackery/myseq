@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Dragoon Barber W`Selo</regex></oldfilter>
+        <oldfilter><regex>Name:Dragoon TVem</regex></oldfilter>
+        <oldfilter><regex>Name:Dragoon T`Vex</regex></oldfilter>
+        <oldfilter><regex>Name:Dragoon V`Lask</regex></oldfilter>
+        <oldfilter><regex>Name:Dragoon V`Resh</regex></oldfilter>
+        <oldfilter><regex>Name:General V`Deers</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#High Priest I`Xar</regex></oldfilter>
+        <oldfilter><regex>Name:Admiral Tylix</regex></oldfilter>
+        <oldfilter><regex>Name:Alchemist Granika</regex></oldfilter>
+        <oldfilter><regex>Name:Captain Rottgrime</regex></oldfilter>
+        <oldfilter><regex>Name:Corundium</regex></oldfilter>
+        <oldfilter><regex>Name:Dragoon Barber W`Selo</regex></oldfilter>
+        <oldfilter><regex>Name:Dragoon TVem</regex></oldfilter>
+        <oldfilter><regex>Name:Dragoon T`Vex</regex></oldfilter>
+        <oldfilter><regex>Name:Dragoon V`Lask</regex></oldfilter>
+        <oldfilter><regex>Name:Dragoon V`Resh</regex></oldfilter>
+        <oldfilter><regex>Name:General V`Deers</regex></oldfilter>
+        <oldfilter><regex>Name:Impaler Tzilug</regex></oldfilter>
+        <oldfilter><regex>Name:Iron Guardian</regex></oldfilter>
+        <oldfilter><regex>Name:Iron Sentinel</regex></oldfilter>
+        <oldfilter><regex>Name:Modani Qu`Loni</regex></oldfilter>
+        <oldfilter><regex>Name:Scorpikis Guardian</regex></oldfilter>
+        <oldfilter><regex>Name:Stishovite</regex></oldfilter>
+        <oldfilter><regex>Name:Tektite</regex></oldfilter>
+        <oldfilter><regex>Name:Tourmaline</regex></oldfilter>
+        <oldfilter><regex>Name:a cliff golem</regex></oldfilter>
+        <oldfilter><regex>Name:a scorpikis scrounger</regex></oldfilter>
+        <oldfilter><regex>Name:an undead foreman</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Reanimated Reaver:Level:60</regex></oldfilter>
+        <oldfilter><regex>Name:Crazed Bubonian Berzerker</regex></oldfilter>
+    </section>
+    <section name="Caution">
+        <oldfilter><regex>Name:Reanimated Reaver:Level:60</regex></oldfilter>
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Pestilence Archon</regex></oldfilter>
+        <oldfilter><regex>Name:Bubonian Great Mystic</regex></oldfilter>
+        <oldfilter><regex>Name:Bubonian Warlord</regex></oldfilter>
+        <oldfilter><regex>Name:Overlord Paffa</regex></oldfilter>
+        <oldfilter><regex>Name:# Carprin Deatharn:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:#High Priest Ultor Szanvon:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Darwol Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Feig Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Xhut Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Kavilis Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Raddi Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Wavadozzik Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Zandal Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Akkapan Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Meedo Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Bhaly Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Qezzin Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Pzo Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:#Bertoxxulous:Level:75</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:# Carprin Deatharn:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:#Avhi Escron:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:#High Priest Ultor Szanvon:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Deathbone Archmagus:Level:61</regex></oldfilter>
+        <oldfilter><regex>Name:#Spectre of Corruption:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Darwol Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Feig Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Xhut Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Kavilis Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Raddi Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Wavadozzik Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Zandal Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Akkapan Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Meedo Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Bhaly Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Qezzin Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:Pzo Adan:Level:70</regex></oldfilter>
+        <oldfilter><regex>Name:#Bertoxxulous:Level:75</regex></oldfilter>
+        <oldfilter><regex>Name:Eviscerator Fwexar:Level:65</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+        <oldfilter><regex>Race:Door</regex></oldfilter>
+    </section>
+</seqfilters>

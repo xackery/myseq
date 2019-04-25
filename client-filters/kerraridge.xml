@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Donla Starfire</regex></oldfilter>
+        <oldfilter><regex>Name:Hamed Garr</regex></oldfilter>
+        <oldfilter><regex>Name:Jojo</regex></oldfilter>
+        <oldfilter><regex>Name:Kerran Missal</regex></oldfilter>
+        <oldfilter><regex>Name:Khonza Mitty of Kerra</regex></oldfilter>
+        <oldfilter><regex>Name:Lord Gonga</regex></oldfilter>
+        <oldfilter><regex>Name:Maugarim</regex></oldfilter>
+        <oldfilter><regex>Name:Roary Fishpouncer</regex></oldfilter>
+        <oldfilter><regex>Name:Sharptooth</regex></oldfilter>
+        <oldfilter><regex>Name:Sha'rr</regex></oldfilter>
+        <oldfilter><regex>Name:Thalith Mamluk</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

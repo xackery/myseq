@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Captain Bvellos</regex></oldfilter>
+        <oldfilter><regex>Name:Derakor the Vindicator:Level:70</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:King Tormax</regex></oldfilter>
+        <oldfilter><regex>Name:Derakor the Vindicator</regex></oldfilter>
+        <oldfilter><regex>Name:The Avatar of War</regex></oldfilter>
+        <oldfilter><regex>Name:#The Idol of Rallos Zek</regex></oldfilter>
+        <oldfilter><regex>Name:The Statue of Rallos Zek</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Adjutant Brunkin</regex></oldfilter>
+        <oldfilter><regex>Name:#Adjutant Gelbenden</regex></oldfilter>
+        <oldfilter><regex>Name:#Adjutant Icetorch</regex></oldfilter>
+        <oldfilter><regex>Name:#Adjutant Pelurr</regex></oldfilter>
+        <oldfilter><regex>Name:#Chanter Dethsek</regex></oldfilter>
+        <oldfilter><regex>Name:#Iceweaver Beldikan</regex></oldfilter>
+        <oldfilter><regex>Name:#Legionnaire Blizzardwalker</regex></oldfilter>
+        <oldfilter><regex>Name:#Legionnaire Sjeldor</regex></oldfilter>
+        <oldfilter><regex>Name:#Lieutenant Ayyoan</regex></oldfilter>
+        <oldfilter><regex>Name:#Lieutenant Bloodhand</regex></oldfilter>
+        <oldfilter><regex>Name:#Lieutenant Brondell</regex></oldfilter>
+        <oldfilter><regex>Name:#Lieutenant Frostbite</regex></oldfilter>
+        <oldfilter><regex>Name:#Lieutenant Stormcleaver</regex></oldfilter>
+        <oldfilter><regex>Name:#Lieutenant Stormeye</regex></oldfilter>
+        <oldfilter><regex>Name:#Oracle Weldom</regex></oldfilter>
+        <oldfilter><regex>Name:#Senior Guard Jlorjallag</regex></oldfilter>
+        <oldfilter><regex>Name:#Senior Guard Tanslein</regex></oldfilter>
+        <oldfilter><regex>Name:#Sergeant Bladesplitter</regex></oldfilter>
+        <oldfilter><regex>Name:#Sergeant Bvearskall</regex></oldfilter>
+        <oldfilter><regex>Name:#Sergeant Fjrak</regex></oldfilter>
+        <oldfilter><regex>Name:#Sergeant Heblaen</regex></oldfilter>
+        <oldfilter><regex>Name:#Sergeant Tellsren</regex></oldfilter>
+        <oldfilter><regex>Name:#Sentinel Veldrendyr</regex></oldfilter>
+        <oldfilter><regex>Name:#The Idol of Rallos Zek</regex></oldfilter>
+        <oldfilter><regex>Name:#Trooper Ebonblade</regex></oldfilter>
+        <oldfilter><regex>Name:#Trooper Mjflean</regex></oldfilter>
+        <oldfilter><regex>Name:#Trooper Nvern</regex></oldfilter>
+        <oldfilter><regex>Name:#Trooper Stengekkar</regex></oldfilter>
+        <oldfilter><regex>Name:#Veteran Eiyloren</regex></oldfilter>
+        <oldfilter><regex>Name:#Veteran Sjrelt</regex></oldfilter>
+        <oldfilter><regex>Name:#Veteran Yllhaydm</regex></oldfilter>
+        <oldfilter><regex>Name:#Watch Sergeant Kredrer</regex></oldfilter>
+        <oldfilter><regex>Name:#Watch Sergeant Tlygrerion</regex></oldfilter>
+        <oldfilter><regex>Name:#Watcher Byorek</regex></oldfilter>
+        <oldfilter><regex>Name:#Watcher Myjeltor</regex></oldfilter>
+        <oldfilter><regex>Name:#Watcher Sergeant Feldrakken</regex></oldfilter>
+        <oldfilter><regex>Name:#Watcher Sergeant Hyren</regex></oldfilter>
+        <oldfilter><regex>Name:#Watcher Stellrevn</regex></oldfilter>
+        <oldfilter><regex>Name:#Watchman Erendor</regex></oldfilter>
+        <oldfilter><regex>Name:#Watchman Faelen</regex></oldfilter>
+        <oldfilter><regex>Name:#Watchman Jhaorn</regex></oldfilter>
+        <oldfilter><regex>Name:#Watchman Karthen</regex></oldfilter>
+        <oldfilter><regex>Name:#Watchman Koprek</regex></oldfilter>
+        <oldfilter><regex>Name:#Watchman Vyiel</regex></oldfilter>
+        <oldfilter><regex>Name:#Watchman Wolfcoat</regex></oldfilter>
+        <oldfilter><regex>Name:Bjrakor the Cold</regex></oldfilter>
+        <oldfilter><regex>Name:Captain Bvellos</regex></oldfilter>
+        <oldfilter><regex>Name:Derakor the Vindicator</regex></oldfilter>
+        <oldfilter><regex>Name:Dlammaz Stormslayer</regex></oldfilter>
+        <oldfilter><regex>Name:Gkrean Prophet of Tallon</regex></oldfilter>
+        <oldfilter><regex>Name:Gleed Dragonhunter</regex></oldfilter>
+        <oldfilter><regex>Name:Kallis Stormcaller</regex></oldfilter>
+        <oldfilter><regex>Name:Keldor Dek'Torek</regex></oldfilter>
+        <oldfilter><regex>Name:King Tormax</regex></oldfilter>
+        <oldfilter><regex>Name:Semkak Prophet of Vallon</regex></oldfilter>
+        <oldfilter><regex>Name:The Avatar of War</regex></oldfilter>
+        <oldfilter><regex>Name:The Statue of Rallos Zek</regex></oldfilter>
+        <oldfilter><regex>Name:Wenglawks Kkeak</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

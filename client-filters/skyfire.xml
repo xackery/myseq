@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+        <oldfilter><regex>Name:a chromadrac</regex></oldfilter>
+        <oldfilter><regex>Name:a mature chromadrac</regex></oldfilter>
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Talendar</regex></oldfilter>
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:Zordakalicus Ragefire</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:!#a fire wurm</regex></oldfilter>
+        <oldfilter><regex>Name:#a fire wurm</regex></oldfilter>
+        <oldfilter><regex>Name:#Obsidian Wyvern</regex></oldfilter>
+        <oldfilter><regex>Name:#a nightfire drake</regex></oldfilter>
+        <oldfilter><regex>Name:Eldrig the Old</regex></oldfilter>
+        <oldfilter><regex>Name:Felia Goldenwing</regex></oldfilter>
+        <oldfilter><regex>Name:Talendar</regex></oldfilter>
+        <oldfilter><regex>Name:Zordakalicus Ragefire</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

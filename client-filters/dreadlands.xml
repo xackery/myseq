@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:rotting skeleton</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Gorenaire</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Dread Widow</regex></oldfilter>
+        <oldfilter><regex>Name:Gorenaire</regex></oldfilter>
+        <oldfilter><regex>Name:Treeflayer</regex></oldfilter>
+        <oldfilter><regex>Name:a plaguebone thief</regex></oldfilter>
+        <oldfilter><regex>Name:a stoneleer cockatrice</regex></oldfilter>
+        <oldfilter><regex>Name:a wulfware lonewolf</regex></oldfilter>
+        <oldfilter><regex>Name:rotting skeleton</regex></oldfilter>
+        <oldfilter><regex>Name:wraithbone champion</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

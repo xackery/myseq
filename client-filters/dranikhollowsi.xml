@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Noc Silentstep</regex></oldfilter>
+        <oldfilter><regex>Name:Dragorn Quickblade</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv Cavescout</regex></oldfilter>
+        <oldfilter><regex>Name:Scuttling Darkrat</regex></oldfilter>
+        <oldfilter><regex>Name:Discordling Collector</regex></oldfilter>
+        <oldfilter><regex>Name:Frenetic Cavebat</regex></oldfilter>
+        <oldfilter><regex>Name:Inky Murkglider</regex></oldfilter>
+        <oldfilter><regex>Name:Silentpaw</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv HeadHunter</regex></oldfilter>
+        <oldfilter><regex>Name:Girplan Pathmaker</regex></oldfilter>
+        <oldfilter><regex>Name:Jaggers</regex></oldfilter>
+        <oldfilter><regex>Name:Tatterwing</regex></oldfilter>
+        <oldfilter><regex>Name:Discordling Hollower</regex></oldfilter>
+        <oldfilter><regex>Name:Ukun Fleshrender</regex></oldfilter>
+        <oldfilter><regex>Name:Swaying Murkglider</regex></oldfilter>
+        <oldfilter><regex>Name:Yellowfang</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv Blindeye</regex></oldfilter>
+        <oldfilter><regex>Name:Ukun Feralclaw</regex></oldfilter>
+        <oldfilter><regex>Name:Discordling Collector</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv Bowkeeper</regex></oldfilter>
+        <oldfilter><regex>Name:Stonewing</regex></oldfilter>
+        <oldfilter><regex>Name:Dragorn Cavewalker</regex></oldfilter>
+        <oldfilter><regex>Name:Dragorn Firekeeper</regex></oldfilter>
+        <oldfilter><regex>Name:Dragorn Shadow</regex></oldfilter>
+        <oldfilter><regex>Name:Girplan Stonemover</regex></oldfilter>
+        <oldfilter><regex>Name:Mischievous Discordling</regex></oldfilter>
+        <oldfilter><regex>Name:Swooping Shriekbat</regex></oldfilter>
+        <oldfilter><regex>Name:Murkglider Lurker</regex></oldfilter>
+        <oldfilter><regex>Name:Girplan Junker</regex></oldfilter>
+        <oldfilter><regex>Name:Ukun Razorfang</regex></oldfilter>
+        <oldfilter><regex>Name:Screecher</regex></oldfilter>
+        <oldfilter><regex>Name:Noc Brightblade</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

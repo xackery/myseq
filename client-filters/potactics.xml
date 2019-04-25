@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:frenzied initiate</regex></oldfilter>
+    </section>
+    <section name="Caution">
+        <oldfilter><regex>Name:Tallon Zek</regex></oldfilter>
+        <oldfilter><regex>Name:The Diaku Overseer</regex></oldfilter>
+        <oldfilter><regex>Name:Vallon Zek</regex></oldfilter>
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:#Rallos Zek</regex></oldfilter>
+        <oldfilter><regex>Name:Rallos Zek the Warlord</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Shadow Master Vinta</regex></oldfilter>
+        <oldfilter><regex>Name:#Anival the Blade</regex></oldfilter>
+        <oldfilter><regex>Name:#Hinvat Deathbringer</regex></oldfilter>
+        <oldfilter><regex>Name:Tallon Zek</regex></oldfilter>
+        <oldfilter><regex>Name:The Diaku Overseer</regex></oldfilter>
+        <oldfilter><regex>Name:Vallon Zek</regex></oldfilter>
+        <oldfilter><regex>Name:Glykus Helmir</regex></oldfilter>
+        <oldfilter><regex>Name:Tagrin Maldric</regex></oldfilter>
+        <oldfilter><regex>Name:#The Diaku Armorer</regex></oldfilter>
+        <oldfilter><regex>Name:#Rallos Zek</regex></oldfilter>
+        <oldfilter><regex>Name:Rallos Zek the Warlord</regex></oldfilter>
+        <oldfilter><regex>Name:Decorin Berik:Level:68</regex></oldfilter>
+        <oldfilter><regex>Name:Decorin Grunhork:Level:68</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+        <oldfilter><regex>Race:Door</regex></oldfilter>
+    </section>
+</seqfilters>

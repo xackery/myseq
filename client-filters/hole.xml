@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#High Scale Kirn</regex></oldfilter>
+        <oldfilter><regex>Name:#a Stone Caller</regex></oldfilter>
+        <oldfilter><regex>Name:#a ratman guard</regex></oldfilter>
+        <oldfilter><regex>Name:Caradon</regex></oldfilter>
+        <oldfilter><regex>Name:Commander Yarik</regex></oldfilter>
+        <oldfilter><regex>Name:Ghost of Glohnon</regex></oldfilter>
+        <oldfilter><regex>Name:Ghost of Kindle</regex></oldfilter>
+        <oldfilter><regex>Name:Irslak the Wretched</regex></oldfilter>
+        <oldfilter><regex>Name:Kelgar the Mighty</regex></oldfilter>
+        <oldfilter><regex>Name:Kyrenna</regex></oldfilter>
+        <oldfilter><regex>Name:Master Yael</regex></oldfilter>
+        <oldfilter><regex>Name:Mummy of Glohnor</regex></oldfilter>
+        <oldfilter><regex>Name:Niltoth the Unholy</regex></oldfilter>
+        <oldfilter><regex>Name:Nortlav the Scalekeeper</regex></oldfilter>
+        <oldfilter><regex>Name:Polzin Mrid</regex></oldfilter>
+        <oldfilter><regex>Name:Rocksoul</regex></oldfilter>
+        <oldfilter><regex>Name:Schnozz the Flighty</regex></oldfilter>
+        <oldfilter><regex>Name:Stonegrinder Minion</regex></oldfilter>
+        <oldfilter><regex>Name:Stonesoul the Unmoving</regex></oldfilter>
+        <oldfilter><regex>Name:Ulrk the Devout</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

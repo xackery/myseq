@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Blackfall Borer</regex></oldfilter>
+        <oldfilter><regex>Name:Elder Murkglider Devourer</regex></oldfilter>
+        <oldfilter><regex>Name:Ertalon the Thrall</regex></oldfilter>
+        <oldfilter><regex>Name:Kiltarn the Sharp</regex></oldfilter>
+        <oldfilter><regex>Name:Kirspos the Cruel</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv Bowmaster</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv Darkscout</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv HeadHunter</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv Scout</regex></oldfilter>
+        <oldfilter><regex>Name:Mature Murkglider Devourer</regex></oldfilter>
+        <oldfilter><regex>Name:Murkglider Hiveguard</regex></oldfilter>
+        <oldfilter><regex>Name:Murkglider Man O War</regex></oldfilter>
+        <oldfilter><regex>Name:Murkglider Marroweater</regex></oldfilter>
+        <oldfilter><regex>Name:Newborn Murkglider Devourer</regex></oldfilter>
+        <oldfilter><regex>Name:Noc Bloodtusk</regex></oldfilter>
+        <oldfilter><regex>Name:Noc Razortusk</regex></oldfilter>
+        <oldfilter><regex>Name:Scaleback</regex></oldfilter>
+        <oldfilter><regex>Name:Ukun BoneRetriever</regex></oldfilter>
+        <oldfilter><regex>Name:Ukun Gutfeaster</regex></oldfilter>
+        <oldfilter><regex>Name:Ukun Slavehunter</regex></oldfilter>
+        <oldfilter><regex>Name:Young Murkglider Devourer</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

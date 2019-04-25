@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Breanna Fisher</regex></oldfilter>
+        <oldfilter><regex>Name:#Castrorum Braku</regex></oldfilter>
+        <oldfilter><regex>Name:#Castrorum Sifu</regex></oldfilter>
+        <oldfilter><regex>Name:#Cornicularii Tistani</regex></oldfilter>
+        <oldfilter><regex>Name:#Cornicularii Zigta</regex></oldfilter>
+        <oldfilter><regex>Name:#Druina McFlagal</regex></oldfilter>
+        <oldfilter><regex>Name:#Legionnaire Boya</regex></oldfilter>
+        <oldfilter><regex>Name:#Legionnaire Lorica</regex></oldfilter>
+        <oldfilter><regex>Name:#Legionnaire Rotin</regex></oldfilter>
+        <oldfilter><regex>Name:#Lendel Trobo</regex></oldfilter>
+        <oldfilter><regex>Name:#Linfa Deepdark</regex></oldfilter>
+        <oldfilter><regex>Name:#Optio Crasa</regex></oldfilter>
+        <oldfilter><regex>Name:#Optio Ealna</regex></oldfilter>
+        <oldfilter><regex>Name:#Optio Morgani</regex></oldfilter>
+        <oldfilter><regex>Name:#Optio Titha</regex></oldfilter>
+        <oldfilter><regex>Name:#Praetorian Aloma</regex></oldfilter>
+        <oldfilter><regex>Name:#Praetorian Archa</regex></oldfilter>
+        <oldfilter><regex>Name:#Praetorian Maklos</regex></oldfilter>
+        <oldfilter><regex>Name:#Praetorian Oritan</regex></oldfilter>
+        <oldfilter><regex>Name:#Praetorian Rynka</regex></oldfilter>
+        <oldfilter><regex>Name:#Praetorian Valka</regex></oldfilter>
+        <oldfilter><regex>Name:#Primus Benet</regex></oldfilter>
+        <oldfilter><regex>Name:#Primus Bilabi</regex></oldfilter>
+        <oldfilter><regex>Name:#Primus Kalani</regex></oldfilter>
+        <oldfilter><regex>Name:#Primus Nikial</regex></oldfilter>
+        <oldfilter><regex>Name:#Primus Niktar</regex></oldfilter>
+        <oldfilter><regex>Name:#Primus Rasha</regex></oldfilter>
+        <oldfilter><regex>Name:#Primus Tralo</regex></oldfilter>
+        <oldfilter><regex>Name:#Siltan Starfollower</regex></oldfilter>
+        <oldfilter><regex>Name:#Skrea Greenore</regex></oldfilter>
+        <oldfilter><regex>Name:#Tigal Cama</regex></oldfilter>
+        <oldfilter><regex>Name:#Uls McMannus</regex></oldfilter>
+        <oldfilter><regex>Name:#Verda Slowfire</regex></oldfilter>
+        <oldfilter><regex>Name:#Vigilum Cosaki</regex></oldfilter>
+        <oldfilter><regex>Name:#Vigilum Greel</regex></oldfilter>
+        <oldfilter><regex>Name:#Vigilum Mornus</regex></oldfilter>
+        <oldfilter><regex>Name:A Caravan Master</regex></oldfilter>
+        <oldfilter><regex>Name:A File Cabinet</regex></oldfilter>
+        <oldfilter><regex>Name:Legionnaire Zavi</regex></oldfilter>
+        <oldfilter><regex>Name:Lord Inquisitor Seru</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

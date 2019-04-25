@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:#A Netherbian Swarmcaller</regex></oldfilter>
+        <oldfilter><regex>Name:#The Swarm Leader</regex></oldfilter>
+        <oldfilter><regex>Name:#The Trog King</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#A Fungoid Worker</regex></oldfilter>
+        <oldfilter><regex>Name:#A Mature Fungoid</regex></oldfilter>
+        <oldfilter><regex>Name:#A Netherbian Swarmcaller</regex></oldfilter>
+        <oldfilter><regex>Name:#A Trog Hunter</regex></oldfilter>
+        <oldfilter><regex>Name:#Bregun Dorey</regex></oldfilter>
+        <oldfilter><regex>Name:#Legionnaire Anolami</regex></oldfilter>
+        <oldfilter><regex>Name:#Legionnaire Dalini</regex></oldfilter>
+        <oldfilter><regex>Name:#Legionnaire Giru</regex></oldfilter>
+        <oldfilter><regex>Name:#Legionnaire Hyuni</regex></oldfilter>
+        <oldfilter><regex>Name:#Legionnaire Maxos</regex></oldfilter>
+        <oldfilter><regex>Name:#The Swarm Leader</regex></oldfilter>
+        <oldfilter><regex>Name:#The Trog King</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

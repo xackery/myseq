@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:#Trunt</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Trunt</regex></oldfilter>
+        <oldfilter><regex>Name:Overseer Dlubish</regex></oldfilter>
+        <oldfilter><regex>Name:Soothsayer Goblin</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

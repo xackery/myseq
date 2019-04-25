@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Jojounga</regex></oldfilter>
+        <oldfilter><regex>Name:Lynuga</regex></oldfilter>
+        <oldfilter><regex>Name:Lynunga</regex></oldfilter>
+        <oldfilter><regex>Name:Spore Guardian</regex></oldfilter>
+        <oldfilter><regex>Name:Troll Captain</regex></oldfilter>
+        <oldfilter><regex>Name:Troll Slayer</regex></oldfilter>
+        <oldfilter><regex>Name:Zimbittle</regex></oldfilter>
+        <oldfilter><regex>Name:a bull alligator</regex></oldfilter>
+        <oldfilter><regex>Name:a fat alligator</regex></oldfilter>
+        <oldfilter><regex>Name:a swamp alligator</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

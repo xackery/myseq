@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Ashenpaw</regex></oldfilter>
+        <oldfilter><regex>Name:Bristletoe</regex></oldfilter>
+        <oldfilter><regex>Name:Brother Nallin</regex></oldfilter>
+        <oldfilter><regex>Name:Callowing</regex></oldfilter>
+        <oldfilter><regex>Name:Callowwing</regex></oldfilter>
+        <oldfilter><regex>Name:Fangbreaker</regex></oldfilter>
+        <oldfilter><regex>Name:GrimFeather</regex></oldfilter>
+        <oldfilter><regex>Name:Grimtooth</regex></oldfilter>
+        <oldfilter><regex>Name:Korvik the Cursed</regex></oldfilter>
+        <oldfilter><regex>Name:Lieutenant Midraim</regex></oldfilter>
+        <oldfilter><regex>Name:Regis the Reverent</regex></oldfilter>
+        <oldfilter><regex>Name:Swiftclaw</regex></oldfilter>
+        <oldfilter><regex>Name:The Swarm Mother</regex></oldfilter>
+        <oldfilter><regex>Name:Timber the Tiny</regex></oldfilter>
+        <oldfilter><regex>Name:Xanuusus</regex></oldfilter>
+        <oldfilter><regex>Name:Zahal the Vile</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

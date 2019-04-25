@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Greenblood zombie</regex></oldfilter>
+        <oldfilter><regex>Name:Thul Tae Ew Cenobite</regex></oldfilter>
+        <oldfilter><regex>Name:Radiant</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Cyndreela</regex></oldfilter>
+        <oldfilter><regex>Name:Dark Assassin</regex></oldfilter>
+        <oldfilter><regex>Name:Evil Enchantress</regex></oldfilter>
+        <oldfilter><regex>Name:Radiant</regex></oldfilter>
+        <oldfilter><regex>Name:Tae Ew Archon</regex></oldfilter>
+        <oldfilter><regex>Name:a Silverflank guardian</regex></oldfilter>
+        <oldfilter><regex>Name:a Tae Ew crusader</regex></oldfilter>
+        <oldfilter><regex>Name:an alligator</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

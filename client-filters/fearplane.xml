@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Wraith of a Shissir</regex></oldfilter>
+        <oldfilter><regex>Name:a broken golem</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Cazic Thule</regex></oldfilter>
+        <oldfilter><regex>Name:Dread</regex></oldfilter>
+        <oldfilter><regex>Name:Fright</regex></oldfilter>
+        <oldfilter><regex>Name:Terror</regex></oldfilter>
+        <oldfilter><regex>Name:a dracoliche</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Cazic Thule</regex></oldfilter>
+        <oldfilter><regex>Name:An Enraged Golem</regex></oldfilter>
+        <oldfilter><regex>Name:Broken Golem</regex></oldfilter>
+        <oldfilter><regex>Name:Wraith of a Shissir</regex></oldfilter>
+        <oldfilter><regex>Name:Irak Altil</regex></oldfilter>
+        <oldfilter><regex>Name:Iksar Broodling</regex></oldfilter>
+        <oldfilter><regex>Name:Amygdalan Warrior</regex></oldfilter>
+        <oldfilter><regex>Name:.*Cazic Thule.*</regex></oldfilter>
+        <oldfilter><regex>Name:Dread</regex></oldfilter>
+        <oldfilter><regex>Name:Fright</regex></oldfilter>
+        <oldfilter><regex>Name:Terror</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

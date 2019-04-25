@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Tumia Lehio</regex></oldfilter>
+        <oldfilter><regex>Name:A Fierce Cragwalker</regex></oldfilter>
+        <oldfilter><regex>Name:A Swift Scavenger</regex></oldfilter>
+        <oldfilter><regex>Name:Vimidon</regex></oldfilter>
+        <oldfilter><regex>Name:Kyv Heartpiercer</regex></oldfilter>
+        <oldfilter><regex>Name:Duara Yuenki</regex></oldfilter>
+        <oldfilter><regex>Name:The Cragbeast Queen</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

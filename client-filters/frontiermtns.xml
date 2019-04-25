@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Bodyguard</regex></oldfilter>
+        <oldfilter><regex>Name:Chief RukGus</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Canyoneer</regex></oldfilter>
+        <oldfilter><regex>Name:Maddened Burynai</regex></oldfilter>
+        <oldfilter><regex>Name:Soothsayer Dregzak</regex></oldfilter>
+        <oldfilter><regex>Name:Stitcher</regex></oldfilter>
+        <oldfilter><regex>Name:a berserk brute</regex></oldfilter>
+        <oldfilter><regex>Name:a diseased brute</regex></oldfilter>
+        <oldfilter><regex>Name:a goblin chieftan</regex></oldfilter>
+        <oldfilter><regex>Name:a goblin coward</regex></oldfilter>
+        <oldfilter><regex>Name:a goblin headhunter</regex></oldfilter>
+        <oldfilter><regex>Name:a goblin herbcollector</regex></oldfilter>
+        <oldfilter><regex>Name:a goblin prospector</regex></oldfilter>
+        <oldfilter><regex>Name:a goblin raider</regex></oldfilter>
+        <oldfilter><regex>Name:a goblin scavenger</regex></oldfilter>
+        <oldfilter><regex>Name:a goblin trailblazer</regex></oldfilter>
+        <oldfilter><regex>Name:a rabid brute</regex></oldfilter>
+        <oldfilter><regex>Name:a sarnak bloodbinder</regex></oldfilter>
+        <oldfilter><regex>Name:a sarnak courier</regex></oldfilter>
+        <oldfilter><regex>Name:a sarnak mystic</regex></oldfilter>
+        <oldfilter><regex>Name:a sarnak rebel</regex></oldfilter>
+        <oldfilter><regex>Name:a sarnak scavenger</regex></oldfilter>
+        <oldfilter><regex>Name:a sarnak seer</regex></oldfilter>
+        <oldfilter><regex>Name:a sarnak warlord</regex></oldfilter>
+        <oldfilter><regex>Name:Bloodscale the Vicious</regex></oldfilter>
+        <oldfilter><regex>Name:blugtigin</regex></oldfilter>
+        <oldfilter><regex>Name:Blugtigin</regex></oldfilter>
+        <oldfilter><regex>Name:bonedigger</regex></oldfilter>
+        <oldfilter><regex>Name:boogoog</regex></oldfilter>
+        <oldfilter><regex>Name:Burynai Grand Cenobite</regex></oldfilter>
+        <oldfilter><regex>Name:burynai squad leader</regex></oldfilter>
+        <oldfilter><regex>Name:Burynai Treasure Seeker</regex></oldfilter>
+        <oldfilter><regex>Name:clazxiss</regex></oldfilter>
+        <oldfilter><regex>Name:Drake Tamer</regex></oldfilter>
+        <oldfilter><regex>Name:draketamer</regex></oldfilter>
+        <oldfilter><regex>Name:Draketamer</regex></oldfilter>
+        <oldfilter><regex>Name:Dustback</regex></oldfilter>
+        <oldfilter><regex>Name:Eboneyes</regex></oldfilter>
+        <oldfilter><regex>Name:Eldrak Howlingbear</regex></oldfilter>
+        <oldfilter><regex>Name:Gemeye</regex></oldfilter>
+        <oldfilter><regex>Name:Giant Hillock</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Dustscryer</regex></oldfilter>
+        <oldfilter><regex>Name:goblin iksar slayer</regex></oldfilter>
+        <oldfilter><regex>Name:Goblin Trail Blazer</regex></oldfilter>
+        <oldfilter><regex>Name:goblinstomper</regex></oldfilter>
+        <oldfilter><regex>Name:gromlok</regex></oldfilter>
+        <oldfilter><regex>Name:joojoobooboo</regex></oldfilter>
+        <oldfilter><regex>Name:joojooga</regex></oldfilter>
+        <oldfilter><regex>Name:krenlek</regex></oldfilter>
+        <oldfilter><regex>Name:miner bordakn</regex></oldfilter>
+        <oldfilter><regex>Name:Mountain Giant Prospector</regex></oldfilter>
+        <oldfilter><regex>Name:mountain giant prospector</regex></oldfilter>
+        <oldfilter><regex>Name:OogaBoog</regex></oldfilter>
+        <oldfilter><regex>Name:overseer miklek</regex></oldfilter>
+        <oldfilter><regex>Name:overseer miklik</regex></oldfilter>
+        <oldfilter><regex>Name:Rockwolf</regex></oldfilter>
+        <oldfilter><regex>Name:sarnak assassin</regex></oldfilter>
+        <oldfilter><regex>Name:slithinis</regex></oldfilter>
+        <oldfilter><regex>Name:Stonegrinder</regex></oldfilter>
+        <oldfilter><regex>Name:varithyx</regex></oldfilter>
+        <oldfilter><regex>Name:Wandering Stonehealer</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

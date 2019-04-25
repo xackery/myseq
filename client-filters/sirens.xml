@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+        <oldfilter><regex>Name:a siren enticer</regex></oldfilter>
+        <oldfilter><regex>Name:a siren priestess</regex></oldfilter>
+        <oldfilter><regex>Name:a siren seductress</regex></oldfilter>
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:a watery servant</regex></oldfilter>
+        <oldfilter><regex>Name:an icy servant</regex></oldfilter>
+        <oldfilter><regex>Name:Priestess Sercema</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#shimmering sea spirit</regex></oldfilter>
+        <oldfilter><regex>Name:#Mistress Latazura</regex></oldfilter>
+        <oldfilter><regex>Name:Priestess Sercema</regex></oldfilter>
+        <oldfilter><regex>Name:The Behemoth</regex></oldfilter>
+        <oldfilter><regex>Name:Fellspine</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

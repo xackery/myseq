@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+        <oldfilter><regex>Name:Sontalak</regex></oldfilter>
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:#Mraaka</regex></oldfilter>
+        <oldfilter><regex>Name:#a Kromzek Captain</regex></oldfilter>
+        <oldfilter><regex>Name:Escorpa of the Ring</regex></oldfilter>
+        <oldfilter><regex>Name:Rak Sapara</regex></oldfilter>
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:Klandicar</regex></oldfilter>
+        <oldfilter><regex>Name:#Myga</regex></oldfilter>
+        <oldfilter><regex>Name:Myga</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Amcilla</regex></oldfilter>
+        <oldfilter><regex>Name:#Cargalia</regex></oldfilter>
+        <oldfilter><regex>Name:#Icehackle</regex></oldfilter>
+        <oldfilter><regex>Name:#Melalafen</regex></oldfilter>
+        <oldfilter><regex>Name:#Mraaka</regex></oldfilter>
+        <oldfilter><regex>Name:#Nintal</regex></oldfilter>
+        <oldfilter><regex>Name:#Scout Charisa</regex></oldfilter>
+        <oldfilter><regex>Name:#Strong Horn</regex></oldfilter>
+        <oldfilter><regex>Name:#Tantor</regex></oldfilter>
+        <oldfilter><regex>Name:#Travala</regex></oldfilter>
+        <oldfilter><regex>Name:#Tsiraka</regex></oldfilter>
+        <oldfilter><regex>Name:#Von</regex></oldfilter>
+        <oldfilter><regex>Name:#Yal</regex></oldfilter>
+        <oldfilter><regex>Name:#Zil Sapara</regex></oldfilter>
+        <oldfilter><regex>Name:#a Kromzek Captain</regex></oldfilter>
+        <oldfilter><regex>Name:Atpaev</regex></oldfilter>
+        <oldfilter><regex>Name:Ayillish</regex></oldfilter>
+        <oldfilter><regex>Name:Bratavar</regex></oldfilter>
+        <oldfilter><regex>Name:Bufa</regex></oldfilter>
+        <oldfilter><regex>Name:Chief Engineer Tocs</regex></oldfilter>
+        <oldfilter><regex>Name:Crial</regex></oldfilter>
+        <oldfilter><regex>Name:Del Sapara</regex></oldfilter>
+        <oldfilter><regex>Name:Derasinal</regex></oldfilter>
+        <oldfilter><regex>Name:Draazak</regex></oldfilter>
+        <oldfilter><regex>Name:Entariz</regex></oldfilter>
+        <oldfilter><regex>Name:Esorpa of the Ring</regex></oldfilter>
+        <oldfilter><regex>Name:Gafala</regex></oldfilter>
+        <oldfilter><regex>Name:Gangel</regex></oldfilter>
+        <oldfilter><regex>Name:Glati</regex></oldfilter>
+        <oldfilter><regex>Name:Guardian Kozzalym</regex></oldfilter>
+        <oldfilter><regex>Name:Harla Dar</regex></oldfilter>
+        <oldfilter><regex>Name:Hechaeva</regex></oldfilter>
+        <oldfilter><regex>Name:Honvar</regex></oldfilter>
+        <oldfilter><regex>Name:Ionat</regex></oldfilter>
+        <oldfilter><regex>Name:Jen Sapara</regex></oldfilter>
+        <oldfilter><regex>Name:Kar Sapara</regex></oldfilter>
+        <oldfilter><regex>Name:Karkona</regex></oldfilter>
+        <oldfilter><regex>Name:Klandicar</regex></oldfilter>
+        <oldfilter><regex>Name:Lenn</regex></oldfilter>
+        <oldfilter><regex>Name:Linbrak</regex></oldfilter>
+        <oldfilter><regex>Name:Makala</regex></oldfilter>
+        <oldfilter><regex>Name:Makil Rargon</regex></oldfilter>
+        <oldfilter><regex>Name:Mav Sapara</regex></oldfilter>
+        <oldfilter><regex>Name:Mazi</regex></oldfilter>
+        <oldfilter><regex>Name:Myga</regex></oldfilter>
+        <oldfilter><regex>Name:Neordla</regex></oldfilter>
+        <oldfilter><regex>Name:Onava</regex></oldfilter>
+        <oldfilter><regex>Name:Pantrilla</regex></oldfilter>
+        <oldfilter><regex>Name:Quoza</regex></oldfilter>
+        <oldfilter><regex>Name:Rak Sapara</regex></oldfilter>
+        <oldfilter><regex>Name:Scout Charisa</regex></oldfilter>
+        <oldfilter><regex>Name:Shardwing Courier</regex></oldfilter>
+        <oldfilter><regex>Name:Sivar</regex></oldfilter>
+        <oldfilter><regex>Name:Sontalak</regex></oldfilter>
+        <oldfilter><regex>Name:Tranala</regex></oldfilter>
+        <oldfilter><regex>Name:Uiliak</regex></oldfilter>
+        <oldfilter><regex>Name:Yeldema</regex></oldfilter>
+        <oldfilter><regex>Name:a rogue dire wolf</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

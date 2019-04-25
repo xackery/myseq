@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:Brother Zephyl</regex></oldfilter>
+        <oldfilter><regex>Name:Hasten Bootstrutter</regex></oldfilter>
+        <oldfilter><regex>Name:a drake</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Ankhefenmut</regex></oldfilter>
+        <oldfilter><regex>Name:Bindlegrob</regex></oldfilter>
+        <oldfilter><regex>Name:Blackwing</regex></oldfilter>
+        <oldfilter><regex>Name:Broog Bloodbeard</regex></oldfilter>
+        <oldfilter><regex>Name:Brother Zephyl</regex></oldfilter>
+        <oldfilter><regex>Name:Findlegrob</regex></oldfilter>
+        <oldfilter><regex>Name:Grazhak the Berzerker</regex></oldfilter>
+        <oldfilter><regex>Name:Hasten Bootstrutter</regex></oldfilter>
+        <oldfilter><regex>Name:Maldyn the Unkempt</regex></oldfilter>
+        <oldfilter><regex>Name:Mortificator Syythrak</regex></oldfilter>
+        <oldfilter><regex>Name:Oculys Ogrefiend</regex></oldfilter>
+        <oldfilter><regex>Name:Petrifin</regex></oldfilter>
+        <oldfilter><regex>Name:Quid Rilstone</regex></oldfilter>
+        <oldfilter><regex>Name:Rharzar</regex></oldfilter>
+        <oldfilter><regex>Name:Shardwing</regex></oldfilter>
+        <oldfilter><regex>Name:Sindlegrob</regex></oldfilter>
+        <oldfilter><regex>Name:Syythrak Mortificator</regex></oldfilter>
+        <oldfilter><regex>Name:Tarskuk</regex></oldfilter>
+        <oldfilter><regex>Name:Tindlegrob</regex></oldfilter>
+        <oldfilter><regex>Name:Zazamoukh</regex></oldfilter>
+        <oldfilter><regex>Name:a drake</regex></oldfilter>
+        <oldfilter><regex>Name:corrupted hill giant</regex></oldfilter>
+        <oldfilter><regex>Name:lizardman mystic</regex></oldfilter>
+        <oldfilter><regex>Name:tainted hill_giant</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

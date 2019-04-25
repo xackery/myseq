@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:#Chakno</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:a deep cavern lotus</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Chakno</regex></oldfilter>
+        <oldfilter><regex>Name:Priest Kak`thak</regex></oldfilter>
+        <oldfilter><regex>Name:Shik`nar Herdmaster</regex></oldfilter>
+        <oldfilter><regex>Name:Shik`nar Royal Advisor</regex></oldfilter>
+        <oldfilter><regex>Name:Shik`nar Royal Guard</regex></oldfilter>
+        <oldfilter><regex>Name:Warlord Tk'kik'tthik</regex></oldfilter>
+        <oldfilter><regex>Name:a Bandit Lookout</regex></oldfilter>
+        <oldfilter><regex>Name:a Chakta Fungus Priest</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:#Innoruuk:Level:70</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Maestro of Rancor</regex></oldfilter>
+        <oldfilter><regex>Name:Corrupter of Life</regex></oldfilter>
+        <oldfilter><regex>Name:#Lord of Ire</regex></oldfilter>
+        <oldfilter><regex>Name:#A Very Unpleasant Hand</regex></oldfilter>
+        <oldfilter><regex>Name:#Grandmaster R'Tal</regex></oldfilter>
+        <oldfilter><regex>Name:#Hand of Maestro</regex></oldfilter>
+        <oldfilter><regex>Name:#Innoruuk</regex></oldfilter>
+        <oldfilter><regex>Name:#Magi T' Vasa</regex></oldfilter>
+        <oldfilter><regex>Name:#Ashenbone Broodmaster</regex></oldfilter>
+        <oldfilter><regex>Name:#Avatar of Abhorrence</regex></oldfilter>
+        <oldfilter><regex>Name:#Lord of Loathing</regex></oldfilter>
+        <oldfilter><regex>Name:#Master of Spite</regex></oldfilter>
+        <oldfilter><regex>Name:#Mistress of Scorn</regex></oldfilter>
+        <oldfilter><regex>Name:#Thought Destroyer</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#A Very Unpleasant Hand</regex></oldfilter>
+        <oldfilter><regex>Name:#a very unpleasant hand</regex></oldfilter>
+        <oldfilter><regex>Name:#Ashenbone Broodmaster</regex></oldfilter>
+        <oldfilter><regex>Name:#Avatar of Abhorrence</regex></oldfilter>
+        <oldfilter><regex>Name:#Coercer T`Val</regex></oldfilter>
+        <oldfilter><regex>Name:#Corrupter of Life</regex></oldfilter>
+        <oldfilter><regex>Name:#Grandmaster R'Tal</regex></oldfilter>
+        <oldfilter><regex>Name:#Hand of Maestro</regex></oldfilter>
+        <oldfilter><regex>Name:#Hand of the Maestro</regex></oldfilter>
+        <oldfilter><regex>Name:#Innoruuk</regex></oldfilter>
+        <oldfilter><regex>Name:#Lord of Ire</regex></oldfilter>
+        <oldfilter><regex>Name:#Lord of Loathing</regex></oldfilter>
+        <oldfilter><regex>Name:#Magi T' Vasa</regex></oldfilter>
+        <oldfilter><regex>Name:#Master of Spite</regex></oldfilter>
+        <oldfilter><regex>Name:#Mistress of Scorn</regex></oldfilter>
+        <oldfilter><regex>Name:#Thought Destroyer</regex></oldfilter>
+        <oldfilter><regex>Name:Corrupter of Life</regex></oldfilter>
+        <oldfilter><regex>Name:Magi P'Tasa</regex></oldfilter>
+        <oldfilter><regex>Name:Maestro of Rancor</regex></oldfilter>
+        <oldfilter><regex>Name:ShowEQ Users Are Lame</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

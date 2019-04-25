@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:#Doomshade</regex></oldfilter>
+        <oldfilter><regex>Name:#Rumblecrush</regex></oldfilter>
+        <oldfilter><regex>Name:#Zelnithak</regex></oldfilter>
+        <oldfilter><regex>Name:Gantru Dralkenr</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Binkl_Dirkwafer</regex></oldfilter>
+        <oldfilter><regex>Name:#Doomshade</regex></oldfilter>
+        <oldfilter><regex>Name:#Rumblecrush</regex></oldfilter>
+        <oldfilter><regex>Name:#Zelnithak</regex></oldfilter>
+        <oldfilter><regex>Name:Fallen Sergeant</regex></oldfilter>
+        <oldfilter><regex>Name:Gantru Dralkenr</regex></oldfilter>
+        <oldfilter><regex>Name:Netherbian Swarmcaller</regex></oldfilter>
+        <oldfilter><regex>Name:Netherbian Swarmlord</regex></oldfilter>
+        <oldfilter><regex>Name:Radir Fireshower</regex></oldfilter>
+        <oldfilter><regex>Name:Shak Dathor Warlord</regex></oldfilter>
+        <oldfilter><regex>Name:Spirit of Radir</regex></oldfilter>
+        <oldfilter><regex>Name:Spirit of Tawro</regex></oldfilter>
+        <oldfilter><regex>Name:Tawro Icequake</regex></oldfilter>
+        <oldfilter><regex>Name:a corrupted elysian elder</regex></oldfilter>
+        <oldfilter><regex>Name:remains of Vah Kerrath</regex></oldfilter>
+        <oldfilter><regex>Name:Corrupted Elysian Remains</regex></oldfilter>
+        <oldfilter><regex>Name:tortured scream</regex></oldfilter>
+        <oldfilter><regex>Name:#Bloodwretch</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

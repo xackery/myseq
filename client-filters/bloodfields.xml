@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Elite Dragorn Jekisia</regex></oldfilter>
+        <oldfilter><regex>Name:The Domineering Ukun</regex></oldfilter>
+        <oldfilter><regex>Name:Ikaav Slumberer</regex></oldfilter>
+        <oldfilter><regex>Name:High Priest Wersin</regex></oldfilter>
+        <oldfilter><regex>Name:Ikaav Dominator</regex></oldfilter>
+        <oldfilter><regex>Name:Captain Gherish</regex></oldfilter>
+        <oldfilter><regex>Name:The Heavy Burdened Golem</regex></oldfilter>
+        <oldfilter><regex>Name:Clergyman Rexith</regex></oldfilter>
+        <oldfilter><regex>Name:Ukun Hatemonger</regex></oldfilter>
+        <oldfilter><regex>Name:Lieutenant Lihad</regex></oldfilter>
+        <oldfilter><regex>Name:Golem Supplier</regex></oldfilter>
+        <oldfilter><regex>Name:Noc Deathstalker</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

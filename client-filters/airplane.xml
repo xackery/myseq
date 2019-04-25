@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+        <oldfilter><regex>Name:Sirran the Lunatic</regex></oldfilter>
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Bzzazzt</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Keeper of Souls</regex></oldfilter>
+        <oldfilter><regex>Name:Noble Dojorn</regex></oldfilter>
+        <oldfilter><regex>Name:Protector of Sky</regex></oldfilter>
+        <oldfilter><regex>Name:Sister of the Spire</regex></oldfilter>
+        <oldfilter><regex>Name:The Spiroc Guardian</regex></oldfilter>
+        <oldfilter><regex>Name:The Spiroc Lord</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

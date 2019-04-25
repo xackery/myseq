@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Alden Koden</regex></oldfilter>
+        <oldfilter><regex>Name:An Animated Guardian</regex></oldfilter>
+        <oldfilter><regex>Name:An Imperon Servicemen</regex></oldfilter>
+        <oldfilter><regex>Name:An Undead Inhabitant</regex></oldfilter>
+        <oldfilter><regex>Name:Brefast Neers</regex></oldfilter>
+        <oldfilter><regex>Name:Captain Danon Shern</regex></oldfilter>
+        <oldfilter><regex>Name:First Sergeant Henrick Iverson</regex></oldfilter>
+        <oldfilter><regex>Name:Freegan Haun</regex></oldfilter>
+        <oldfilter><regex>Name:Halgoz Rellinic</regex></oldfilter>
+        <oldfilter><regex>Name:Hero Shrine Guardian</regex></oldfilter>
+        <oldfilter><regex>Name:Kaith Harrowsky</regex></oldfilter>
+        <oldfilter><regex>Name:Konrid Merdrid</regex></oldfilter>
+        <oldfilter><regex>Name:Lieutenant Fihat Rythad</regex></oldfilter>
+        <oldfilter><regex>Name:Lieutenant Noton Jurnnes</regex></oldfilter>
+        <oldfilter><regex>Name:Lieutenant Roset Beatry</regex></oldfilter>
+        <oldfilter><regex>Name:Miranda Climmes</regex></oldfilter>
+        <oldfilter><regex>Name:Nevor Jikman</regex></oldfilter>
+        <oldfilter><regex>Name:Rydda`Dar</regex></oldfilter>
+        <oldfilter><regex>Name:Sergeant Hurrid</regex></oldfilter>
+        <oldfilter><regex>Name:Ydira Merok</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

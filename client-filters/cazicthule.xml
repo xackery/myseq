@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:#a blood fin piranha</regex></oldfilter>
+        <oldfilter><regex>Name:#a crystaline mass</regex></oldfilter>
+        <oldfilter><regex>Name:#a frenzied shiverback</regex></oldfilter>
+        <oldfilter><regex>Name:#a rotting shiverback</regex></oldfilter>
+        <oldfilter><regex>Name:#a silverflank shiverback</regex></oldfilter>
+        <oldfilter><regex>Name:#a swirling red mass</regex></oldfilter>
+        <oldfilter><regex>Name:#a Thul Tae Ew despoiler</regex></oldfilter>
+        <oldfilter><regex>Name:#a Tae Ew bloodfiend</regex></oldfilter>
+        <oldfilter><regex>Name:#a Tae Ew convert</regex></oldfilter>
+        <oldfilter><regex>Name:#a Tae Ew trapper</regex></oldfilter>
+        <oldfilter><regex>Name:#a Thul Tae Ew crusader</regex></oldfilter>
+        <oldfilter><regex>Name:#a blood claw raptor</regex></oldfilter>
+        <oldfilter><regex>Name:#a disciple of Thule</regex></oldfilter>
+        <oldfilter><regex>Name:#a diseased mosquito</regex></oldfilter>
+        <oldfilter><regex>Name:#a gelatinous mass</regex></oldfilter>
+        <oldfilter><regex>Name:#a poisonstrand hunter</regex></oldfilter>
+        <oldfilter><regex>Name:#a rotting horror</regex></oldfilter>
+        <oldfilter><regex>Name:#a Thul Tae Ew spirtcaller</regex></oldfilter>
+        <oldfilter><regex>Name:#a toxic jungle hunter</regex></oldfilter>
+        <oldfilter><regex>Name:#a quivering mass</regex></oldfilter>
+        <oldfilter><regex>Name:#a virulent mosquito</regex></oldfilter>
+        <oldfilter><regex>Name:#an enraged disciple</regex></oldfilter>
+        <oldfilter><regex>Name:#an enraged tiger raptor</regex></oldfilter>
+        <oldfilter><regex>Name:#an ooze covered ritualist</regex></oldfilter>
+        <oldfilter><regex>Name:#Dismay</regex></oldfilter>
+        <oldfilter><regex>Name:#Dreadfang</regex></oldfilter>
+        <oldfilter><regex>Name:#Toxiferious</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:#a Tae Ew aggressor</regex></oldfilter>
+        <oldfilter><regex>Name:#Guard Khataruss</regex></oldfilter>
+        <oldfilter><regex>Name:#Guard Scithiss</regex></oldfilter>
+        <oldfilter><regex>Name:#Guard Thrasciss</regex></oldfilter>
+        <oldfilter><regex>Name:Tae Ew Hunter</regex></oldfilter>
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:Gimlik Cogboggle:</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:!#a poisonstrand hunter</regex></oldfilter>
+        <oldfilter><regex>Name:#a Thul Tae Ew despoiler</regex></oldfilter>
+        <oldfilter><regex>Name:#a Thul Tae Ew High Priest</regex></oldfilter>
+        <oldfilter><regex>Name:#a Tae Ew bloodfiend</regex></oldfilter>
+        <oldfilter><regex>Name:#a Tae Ew convert</regex></oldfilter>
+        <oldfilter><regex>Name:#a Tae Ew hunter</regex></oldfilter>
+        <oldfilter><regex>Name:#a Tae Ew trapper</regex></oldfilter>
+        <oldfilter><regex>Name:#a Tae Ew warlord</regex></oldfilter>
+        <oldfilter><regex>Name:#a frenzied shiverback</regex></oldfilter>
+        <oldfilter><regex>Name:#a Thul Tae Ew crusader</regex></oldfilter>
+        <oldfilter><regex>Name:#a blood claw raptor</regex></oldfilter>
+        <oldfilter><regex>Name:#a blood fin piranha</regex></oldfilter>
+        <oldfilter><regex>Name:#a crystaline mass</regex></oldfilter>
+        <oldfilter><regex>Name:#a disciple of Thule</regex></oldfilter>
+        <oldfilter><regex>Name:#a diseased mosquito</regex></oldfilter>
+        <oldfilter><regex>Name:#a gelatinous mass</regex></oldfilter>
+        <oldfilter><regex>Name:#a poisonstrand hunter</regex></oldfilter>
+        <oldfilter><regex>Name:#a rotting horror</regex></oldfilter>
+        <oldfilter><regex>Name:#a Thul Tae Ew spirtcaller</regex></oldfilter>
+        <oldfilter><regex>Name:#a toxic jungle hunter</regex></oldfilter>
+        <oldfilter><regex>Name:#a quivering mass</regex></oldfilter>
+        <oldfilter><regex>Name:#a virulent mosquito</regex></oldfilter>
+        <oldfilter><regex>Name:#an enraged disciple</regex></oldfilter>
+        <oldfilter><regex>Name:#an enraged tiger raptor</regex></oldfilter>
+        <oldfilter><regex>Name:#an envenomed hunter</regex></oldfilter>
+        <oldfilter><regex>Name:#an ooze covered ritualist</regex></oldfilter>
+        <oldfilter><regex>Name:#Dismay</regex></oldfilter>
+        <oldfilter><regex>Name:#Dreadfang</regex></oldfilter>
+        <oldfilter><regex>Name:#Toxiferious</regex></oldfilter>
+        <oldfilter><regex>Name:Avatar of Fear</regex></oldfilter>
+        <oldfilter><regex>Name:Cazic Cenobite</regex></oldfilter>
+        <oldfilter><regex>Name:Clay Golem</regex></oldfilter>
+        <oldfilter><regex>Name:Lizard Crusader</regex></oldfilter>
+        <oldfilter><regex>Name:Radiant</regex></oldfilter>
+        <oldfilter><regex>Name:Steel Golem</regex></oldfilter>
+        <oldfilter><regex>Name:Stone Golem</regex></oldfilter>
+        <oldfilter><regex>Name:Tae Ew Archon</regex></oldfilter>
+        <oldfilter><regex>Name:Tae Ew Diviner</regex></oldfilter>
+        <oldfilter><regex>Name:Tae Ew Templar</regex></oldfilter>
+        <oldfilter><regex>Name:Tahia Felwah</regex></oldfilter>
+        <oldfilter><regex>Name:Gimlik Cogboggle</regex></oldfilter>
+        <oldfilter><regex>Name:Terror Claw</regex></oldfilter>
+        <oldfilter><regex>Name:Toxiferious</regex></oldfilter>
+        <oldfilter><regex>Name:Soul Siphon</regex></oldfilter>
+        <oldfilter><regex>Name:Frightchaser</regex></oldfilter>
+        <oldfilter><regex>Name:Dreadfang</regex></oldfilter>
+        <oldfilter><regex>Name:Avatar of Fright</regex></oldfilter>
+        <oldfilter><regex>Name:Avatar of Terror</regex></oldfilter>
+        <oldfilter><regex>Name:Diamond Scale Piranha</regex></oldfilter>
+        <oldfilter><regex>Name:Dismayr</regex></oldfilter>
+        <oldfilter><regex>Name:Dreadfang</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

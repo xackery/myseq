@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Coerced Tiv Chanter</regex></oldfilter>
+        <oldfilter><regex>Name:Enslaved Vrex Zealot</regex></oldfilter>
+        <oldfilter><regex>Name:Hynid Howler</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Airstrangler</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Battlestrategist</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Grand Summoner</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Nervehammer</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Neuromancer</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Slaughteress</regex></oldfilter>
+        <oldfilter><regex>Name:Rav Deathfang</regex></oldfilter>
+        <oldfilter><regex>Name:Subjugated Vrex Caller</regex></oldfilter>
+        <oldfilter><regex>Name:Constrained Spiritscourge</regex></oldfilter>
+        <oldfilter><regex>Name:Hexxt Bonegrinder</regex></oldfilter>
+        <oldfilter><regex>Name:Hexxt Deathaim</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Venomblade</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Willbreaker</regex></oldfilter>
+        <oldfilter><regex>Name:Hexxt Warmonger</regex></oldfilter>
+        <oldfilter><regex>Name:Hexxt Markmaker</regex></oldfilter>
+        <oldfilter><regex>Name:Hexxt Spiritpillager</regex></oldfilter>
+        <oldfilter><regex>Name:Hexxt Chaos Provoker</regex></oldfilter>
+        <oldfilter><regex>Name:Subjugated Brawler</regex></oldfilter>
+        <oldfilter><regex>Name:Cragbeast Elder</regex></oldfilter>
+        <oldfilter><regex>Name:Cragbeast Rager</regex></oldfilter>
+        <oldfilter><regex>Name:Subservient Punisher</regex></oldfilter>
+        <oldfilter><regex>Name:Spiteful Trusik Apparition</regex></oldfilter>
+        <oldfilter><regex>Name:Controlled Spirithunter</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

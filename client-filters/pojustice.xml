@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Arch Menoch Vanim</regex></oldfilter>
+        <oldfilter><regex>Name:Blood Leech</regex></oldfilter>
+        <oldfilter><regex>Name:Diamond Beetle</regex></oldfilter>
+        <oldfilter><regex>Name:Dreamthief</regex></oldfilter>
+        <oldfilter><regex>Name:Gaoler of Justice</regex></oldfilter>
+        <oldfilter><regex>Name:General Vhan`Geltah</regex></oldfilter>
+        <oldfilter><regex>Name:Grallock Crusader</regex></oldfilter>
+        <oldfilter><regex>Name:Grallock Elder</regex></oldfilter>
+        <oldfilter><regex>Name:Grallock Overseer</regex></oldfilter>
+        <oldfilter><regex>Name:Guardian Zephyst</regex></oldfilter>
+        <oldfilter><regex>Name:Herald of Destruction</regex></oldfilter>
+        <oldfilter><regex>Name:High Guardian of Justice</regex></oldfilter>
+        <oldfilter><regex>Name:Iyalinaoukh</regex></oldfilter>
+        <oldfilter><regex>Name:Kalliz</regex></oldfilter>
+        <oldfilter><regex>Name:Nemesis of Stone</regex></oldfilter>
+        <oldfilter><regex>Name:Nghala Sretch</regex></oldfilter>
+        <oldfilter><regex>Name:Priest of Doom</regex></oldfilter>
+        <oldfilter><regex>Name:Prime Executioner Vathoch</regex></oldfilter>
+        <oldfilter><regex>Name:Punisher Veshtaq</regex></oldfilter>
+        <oldfilter><regex>Name:Screeching Parasite</regex></oldfilter>
+        <oldfilter><regex>Name:Sentry of Justice</regex></oldfilter>
+        <oldfilter><regex>Name:Spirit of Suffocation</regex></oldfilter>
+        <oldfilter><regex>Name:Talliz</regex></oldfilter>
+        <oldfilter><regex>Name:Terorau Xi Atraeth</regex></oldfilter>
+        <oldfilter><regex>Name:The Ancient Crawler</regex></oldfilter>
+        <oldfilter><regex>Name:The Grallok Underlord</regex></oldfilter>
+        <oldfilter><regex>Name:The Seventh Hammer</regex></oldfilter>
+        <oldfilter><regex>Name:The Xel'Moar</regex></oldfilter>
+        <oldfilter><regex>Name:The Yrendan Scarab</regex></oldfilter>
+        <oldfilter><regex>Name:Wraith of Domagr</regex></oldfilter>
+        <oldfilter><regex>Name:Xenioth the Endless</regex></oldfilter>
+        <oldfilter><regex>Name:Yalaki</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

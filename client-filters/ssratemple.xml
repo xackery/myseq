@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:an elite temple guard</regex></oldfilter>
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:Shissar Assassin</regex></oldfilter>
+        <oldfilter><regex>Name:#Rhag`Mozdezh</regex></oldfilter>
+        <oldfilter><regex>Name:#Rhag`Zerath</regex></oldfilter>
+        <oldfilter><regex>Name:#Rhag`Zhezum</regex></oldfilter>
+        <oldfilter><regex>Name:#a glyph covered serpent</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Advisor Zekuzh</regex></oldfilter>
+        <oldfilter><regex>Name:#Arbiter Korazhk</regex></oldfilter>
+        <oldfilter><regex>Name:#Arch Lich Rhag`Zadune</regex></oldfilter>
+        <oldfilter><regex>Name:#Clati Soriz</regex></oldfilter>
+        <oldfilter><regex>Name:#Commander Zazuzh</regex></oldfilter>
+        <oldfilter><regex>Name:#Commander Zherozsh</regex></oldfilter>
+        <oldfilter><regex>Name:#Deflier Juzlix</regex></oldfilter>
+        <oldfilter><regex>Name:#Disciple Yelwinz</regex></oldfilter>
+        <oldfilter><regex>Name:#Emperor Ssraeshza</regex></oldfilter>
+        <oldfilter><regex>Name:#Fifth Disciple of Rhag</regex></oldfilter>
+        <oldfilter><regex>Name:#Fourth Disciple of Rhag</regex></oldfilter>
+        <oldfilter><regex>Name:#General Kizuhx</regex></oldfilter>
+        <oldfilter><regex>Name:#Granic Obulus</regex></oldfilter>
+        <oldfilter><regex>Name:#Grziz the Tormentor</regex></oldfilter>
+        <oldfilter><regex>Name:#Heriz the malignant</regex></oldfilter>
+        <oldfilter><regex>Name:#Kalin Nathsar</regex></oldfilter>
+        <oldfilter><regex>Name:#Klazaz the Slayer</regex></oldfilter>
+        <oldfilter><regex>Name:#Nerla Kunzar</regex></oldfilter>
+        <oldfilter><regex>Name:#Nilasz the Devourer</regex></oldfilter>
+        <oldfilter><regex>Name:#Rath`Giloth</regex></oldfilter>
+        <oldfilter><regex>Name:#Rath`Zihold</regex></oldfilter>
+        <oldfilter><regex>Name:#Rhag`Hilath</regex></oldfilter>
+        <oldfilter><regex>Name:#Rhag`Mozdezh</regex></oldfilter>
+        <oldfilter><regex>Name:#Rhag`Reshkazh</regex></oldfilter>
+        <oldfilter><regex>Name:#Rhag`Rithal</regex></oldfilter>
+        <oldfilter><regex>Name:#Rhag`Vezozh</regex></oldfilter>
+        <oldfilter><regex>Name:#Rhag`Vithil</regex></oldfilter>
+        <oldfilter><regex>Name:#Rhag`Zerath</regex></oldfilter>
+        <oldfilter><regex>Name:#Rhag`Zhezum</regex></oldfilter>
+        <oldfilter><regex>Name:#Rhozth Ssrakezh</regex></oldfilter>
+        <oldfilter><regex>Name:#Sixth Disciple of Rhag</regex></oldfilter>
+        <oldfilter><regex>Name:#Skzik the Tormentor</regex></oldfilter>
+        <oldfilter><regex>Name:#Slakiz the malignant</regex></oldfilter>
+        <oldfilter><regex>Name:#Spiritward Trilzic</regex></oldfilter>
+        <oldfilter><regex>Name:#Ssraeshzian Blood Priest</regex></oldfilter>
+        <oldfilter><regex>Name:#Ssraeshzian Death Priest</regex></oldfilter>
+        <oldfilter><regex>Name:#Ssraeshzian Plague Priest</regex></oldfilter>
+        <oldfilter><regex>Name:#Ssraeshzian Terror Priest</regex></oldfilter>
+        <oldfilter><regex>Name:#Third Disciple of Rhag</regex></oldfilter>
+        <oldfilter><regex>Name:#Yasiz the Devourer</regex></oldfilter>
+        <oldfilter><regex>Name:#Zel`Krioz</regex></oldfilter>
+        <oldfilter><regex>Name:#Zel`Rekushoz</regex></oldfilter>
+        <oldfilter><regex>Name:#Zel`Zachum</regex></oldfilter>
+        <oldfilter><regex>Name:#Zel`Zoszh</regex></oldfilter>
+        <oldfilter><regex>Name:#Zlakas the Slayer</regex></oldfilter>
+        <oldfilter><regex>Name:#a glyph covered serpent</regex></oldfilter>
+        <oldfilter><regex>Name:Arch Tormentor Zhesz</regex></oldfilter>
+        <oldfilter><regex>Name:Blood of Ssraeshza</regex></oldfilter>
+        <oldfilter><regex>Name:Commander Zherozsh</regex></oldfilter>
+        <oldfilter><regex>Name:Disciple Zhorluhx</regex></oldfilter>
+        <oldfilter><regex>Name:Elder Glanoxx</regex></oldfilter>
+        <oldfilter><regex>Name:Enhanced Imperial Golem</regex></oldfilter>
+        <oldfilter><regex>Name:High Priest of Ssraeshza</regex></oldfilter>
+        <oldfilter><regex>Name:Prime Educator Ghozik</regex></oldfilter>
+        <oldfilter><regex>Name:Rhozth Ssravizh</regex></oldfilter>
+        <oldfilter><regex>Name:Shissar Assassin</regex></oldfilter>
+        <oldfilter><regex>Name:Taskmaster Kavamezh</regex></oldfilter>
+        <oldfilter><regex>Name:Taskmaster Keuzozh</regex></oldfilter>
+        <oldfilter><regex>Name:Taskmaster Mikazha</regex></oldfilter>
+        <oldfilter><regex>Name:Taskmaster Revan`Kezh</regex></oldfilter>
+        <oldfilter><regex>Name:Taskmaster Vezhkah</regex></oldfilter>
+        <oldfilter><regex>Name:Taskmaster Zerumaz</regex></oldfilter>
+        <oldfilter><regex>Name:Taskmaster Zhe`Vozh</regex></oldfilter>
+        <oldfilter><regex>Name:Warden Mekuzh</regex></oldfilter>
+        <oldfilter><regex>Name:Xerkizh The Creator</regex></oldfilter>
+        <oldfilter><regex>Name:Zhroushe Mezhkazh</regex></oldfilter>
+        <oldfilter><regex>Name:a caputured Thought Leech</regex></oldfilter>
+        <oldfilter><regex>Name:an elite temple guard</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

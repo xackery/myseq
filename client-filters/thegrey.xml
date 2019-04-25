@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:#An Ancient Shissar Servit</regex></oldfilter>
+        <oldfilter><regex>Name:#Boulder</regex></oldfilter>
+        <oldfilter><regex>Name:#Heirophant Grazan</regex></oldfilter>
+        <oldfilter><regex>Name:#Revenant Sthzzzizt</regex></oldfilter>
+        <oldfilter><regex>Name:#Revenant Zsshta</regex></oldfilter>
+        <oldfilter><regex>Name:#Stonehand</regex></oldfilter>
+    </section>
+    <section name="Caution">
+        <oldfilter><regex>Name:The sand</regex></oldfilter>
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#A Shattered Golem</regex></oldfilter>
+        <oldfilter><regex>Name:#An Ancient Shissar Servit</regex></oldfilter>
+        <oldfilter><regex>Name:#Boulder</regex></oldfilter>
+        <oldfilter><regex>Name:#Crusader Kezzal</regex></oldfilter>
+        <oldfilter><regex>Name:#Heirophant Grazan</regex></oldfilter>
+        <oldfilter><regex>Name:#Revenant Sthzzzizt</regex></oldfilter>
+        <oldfilter><regex>Name:#Revenant Zsshta</regex></oldfilter>
+        <oldfilter><regex>Name:#Stonehand</regex></oldfilter>
+        <oldfilter><regex>Name:A Shattered Golem</regex></oldfilter>
+        <oldfilter><regex>Name:Boulder</regex></oldfilter>
+        <oldfilter><regex>Name:Crusader Kezzal</regex></oldfilter>
+        <oldfilter><regex>Name:Heirophant Gerek</regex></oldfilter>
+        <oldfilter><regex>Name:Rockling</regex></oldfilter>
+        <oldfilter><regex>Name:a stone beast</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

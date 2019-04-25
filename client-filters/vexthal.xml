@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:[#]*Va Xi Aten Ha Ra</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Aten Ha Ra</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Va Dyn Khar</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Diabo Xi Va</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Diabo Xa Va Temariel</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Diabo Xi Xin</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Diabo Xi Xin Thall</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Kaas Thox Xi Ans Dyek</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Kaas Thox Xi Aten Ha Ra</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Thall Xundraux Diabo</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Thall Va Xakra</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Thall Va Kelun</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:[#]*Va Xi Aten Ha Ra</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Aten Ha Ra</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Diabo Xi Va</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Diabo Xa Va Temariel</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Diabo Xi Xin</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Diabo Xi Xin Thall</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Kaas Thox Xi Ans Dyek</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Kaas Thox Xi Aten Ha Ra</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Thall Xundraux Diabo</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Thall Va Xakra</regex></oldfilter>
+        <oldfilter><regex>Name:[#]*Thall Va Kelun</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+        <oldfilter><regex>Race:Door</regex></oldfilter>
+    </section>
+</seqfilters>

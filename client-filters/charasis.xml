@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Skeletal Procurator</regex></oldfilter>
+        <oldfilter><regex>Name:#Mortiferous Protector</regex></oldfilter>
+        <oldfilter><regex>Name:embalming fluid</regex></oldfilter>
+        <oldfilter><regex>Name:Crypt Feaster, the</regex></oldfilter>
+        <oldfilter><regex>Name:Crypt Excavator, the</regex></oldfilter>
+        <oldfilter><regex>Name:Crypt Keeper, the</regex></oldfilter>
+        <oldfilter><regex>Name:Golem Master, the</regex></oldfilter>
+        <oldfilter><regex>Name:Skeleton Sepulcher, the</regex></oldfilter>
+        <oldfilter><regex>Name:Spectre Sepulcher, the</regex></oldfilter>
+        <oldfilter><regex>Name:Spectre Spirtualist, the</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:Drusella Sathir</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Drusella Sathir</regex></oldfilter>
+        <oldfilter><regex>Name:Skeletal Procurator, the</regex></oldfilter>
+        <oldfilter><regex>Name:#Mortiferous Protector</regex></oldfilter>
+        <oldfilter><regex>Name:embalming fluid</regex></oldfilter>
+        <oldfilter><regex>Name:Crypt Feaster, the</regex></oldfilter>
+        <oldfilter><regex>Name:Crypt Excavator, the</regex></oldfilter>
+        <oldfilter><regex>Name:Crypt Keeper, the</regex></oldfilter>
+        <oldfilter><regex>Name:Golem Master, the</regex></oldfilter>
+        <oldfilter><regex>Name:Skeletal Procurator</regex></oldfilter>
+        <oldfilter><regex>Name:Skeleton Sepulcher, the</regex></oldfilter>
+        <oldfilter><regex>Name:Spectre Sepulcher, the</regex></oldfilter>
+        <oldfilter><regex>Name:Spectre Spirtualist, the</regex></oldfilter>
+        <oldfilter><regex>Name:Undertaker Lord, the</regex></oldfilter>
+        <oldfilter><regex>Name:Bile Sentinel</regex></oldfilter>
+        <oldfilter><regex>Name:Embalming Fluid</regex></oldfilter>
+        <oldfilter><regex>Name:Pulsating Bile</regex></oldfilter>
+        <oldfilter><regex>Name:Reanimated Plaguebone</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

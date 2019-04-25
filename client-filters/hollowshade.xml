@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Dirtchomp</regex></oldfilter>
+        <oldfilter><regex>Name:#Gamtoine Cursmakk</regex></oldfilter>
+        <oldfilter><regex>Name:#Prince Skriatat</regex></oldfilter>
+        <oldfilter><regex>Name:#Sergeant Tylah</regex></oldfilter>
+        <oldfilter><regex>Name:Ghowik</regex></oldfilter>
+        <oldfilter><regex>Name:Ghowlik</regex></oldfilter>
+        <oldfilter><regex>Name:Gorehorn</regex></oldfilter>
+        <oldfilter><regex>Name:Scarflank</regex></oldfilter>
+        <oldfilter><regex>Name:Skrietat`Chu</regex></oldfilter>
+        <oldfilter><regex>Name:a patrolling sonic wolf</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

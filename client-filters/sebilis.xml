@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:myconid spore king</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Sebilite Protector</regex></oldfilter>
+        <oldfilter><regex>Name:Tolapumj:</regex></oldfilter>
+        <oldfilter><regex>Name:Trakanon</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:!froglok ilis acolyte</regex></oldfilter>
+        <oldfilter><regex>Name:#froglok krup mage</regex></oldfilter>
+        <oldfilter><regex>Name:An Undead Bard</regex></oldfilter>
+        <oldfilter><regex>Name:Arch Duke Iatol</regex></oldfilter>
+        <oldfilter><regex>Name:Arch Heirophant Galek</regex></oldfilter>
+        <oldfilter><regex>Name:Baron Yosig</regex></oldfilter>
+        <oldfilter><regex>Name:Blood of Chottal</regex></oldfilter>
+        <oldfilter><regex>Name:Brogg</regex></oldfilter>
+        <oldfilter><regex>Name:Emperor Chottal</regex></oldfilter>
+        <oldfilter><regex>Name:Froggy</regex></oldfilter>
+        <oldfilter><regex>Name:Gruplinort</regex></oldfilter>
+        <oldfilter><regex>Name:Harbinger Freglor</regex></oldfilter>
+        <oldfilter><regex>Name:Hierophant Prime Grekal</regex></oldfilter>
+        <oldfilter><regex>Name:Myconid Spore King</regex></oldfilter>
+        <oldfilter><regex>Name:Necrosis Scarab</regex></oldfilter>
+        <oldfilter><regex>Name:Sebilite Guardian</regex></oldfilter>
+        <oldfilter><regex>Name:Sebilite Protector</regex></oldfilter>
+        <oldfilter><regex>Name:Tolapumj:</regex></oldfilter>
+        <oldfilter><regex>Name:Trakanon</regex></oldfilter>
+        <oldfilter><regex>Name:blood of chottal</regex></oldfilter>
+        <oldfilter><regex>Name:crypt caretaker</regex></oldfilter>
+        <oldfilter><regex>Name:frenzied pox scarab</regex></oldfilter>
+        <oldfilter><regex>Name:frenzied pox beetle</regex></oldfilter>
+        <oldfilter><regex>Name:froglok armorer</regex></oldfilter>
+        <oldfilter><regex>Name:froglok armsman</regex></oldfilter>
+        <oldfilter><regex>Name:froglok bartender</regex></oldfilter>
+        <oldfilter><regex>Name:froglok chef</regex></oldfilter>
+        <oldfilter><regex>Name:froglok commander</regex></oldfilter>
+        <oldfilter><regex>Name:froglok ostiary</regex></oldfilter>
+        <oldfilter><regex>Name:froglok pickler</regex></oldfilter>
+        <oldfilter><regex>Name:froglok repairer</regex></oldfilter>
+        <oldfilter><regex>Name:gangrenous scarab</regex></oldfilter>
+        <oldfilter><regex>Name:gangrenous beetle</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Keeper of the Altar</regex></oldfilter>
+        <oldfilter><regex>Name:Diabolic Destroyer</regex></oldfilter>
+        <oldfilter><regex>Name:Hexxt Sightsliverer</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Annihilator</regex></oldfilter>
+        <oldfilter><regex>Name:Rav Interceptor</regex></oldfilter>
+        <oldfilter><regex>Name:Constrained Spiritscourge</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Willbreaker</regex></oldfilter>
+        <oldfilter><regex>Name:Rav Deathfang</regex></oldfilter>
+        <oldfilter><regex>Name:Altar Overseer</regex></oldfilter>
+        <oldfilter><regex>Name:Custodian of Righteousness</regex></oldfilter>
+        <oldfilter><regex>Name:Oracle of the Altar</regex></oldfilter>
+        <oldfilter><regex>Name:Priest of Righteousness</regex></oldfilter>
+        <oldfilter><regex>Name:Sentinel of Glorification</regex></oldfilter>
+        <oldfilter><regex>Name:Transcendent Acolyte</regex></oldfilter>
+        <oldfilter><regex>Name:Visionary of Glory</regex></oldfilter>
+        <oldfilter><regex>Name:Guardian of Glorification</regex></oldfilter>
+        <oldfilter><regex>Name:Guardian of Righteousness</regex></oldfilter>
+        <oldfilter><regex>Name:Spirit of Tunik Tamuik</regex></oldfilter>
+        <oldfilter><regex>Name:Coerced Tiv Chanter</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Airstrangler</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Battlestrategist</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Nervehammer</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Neuromancer</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Slaughteress</regex></oldfilter>
+        <oldfilter><regex>Name:Rav Deathfang</regex></oldfilter>
+        <oldfilter><regex>Name:Subjugated Vrex Caller</regex></oldfilter>
+        <oldfilter><regex>Name:Guardian of Transcendence</regex></oldfilter>
+        <oldfilter><regex>Name:Vrex Xalkak Nixki</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Slaughterer</regex></oldfilter>
+        <oldfilter><regex>Name:Pixtt Venomblade</regex></oldfilter>
+        <oldfilter><regex>Name:Flesh Hunter</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

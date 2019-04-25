@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Xin Thall Centien</regex></oldfilter>
+        <oldfilter><regex>Name:Xi Thall</regex></oldfilter>
+        <oldfilter><regex>Name:goranga chieftan</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:a coterie centurion</regex></oldfilter>
+        <oldfilter><regex>Name:a coterie legionnaire</regex></oldfilter>
+        <oldfilter><regex>Name:a mind burrower</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#a goranga battlemaster</regex></oldfilter>
+        <oldfilter><regex>Name:#a goranga forager</regex></oldfilter>
+        <oldfilter><regex>Name:#a goranga prophet</regex></oldfilter>
+        <oldfilter><regex>Name:#a goranga seer</regex></oldfilter>
+        <oldfilter><regex>Name:#a thought stealer</regex></oldfilter>
+        <oldfilter><regex>Name:#A Thought Stealer</regex></oldfilter>
+        <oldfilter><regex>Name:A Goranga Battlemaster</regex></oldfilter>
+        <oldfilter><regex>Name:A Shadow Overlord</regex></oldfilter>
+        <oldfilter><regex>Name:Shadowed Overlord</regex></oldfilter>
+        <oldfilter><regex>Name:Vellar Toranalls</regex></oldfilter>
+        <oldfilter><regex>Name:Xi Thall</regex></oldfilter>
+        <oldfilter><regex>Name:goranga chieftan</regex></oldfilter>
+    </section>
+[Filtered]#
+
+    </section>
+</seqfilters>

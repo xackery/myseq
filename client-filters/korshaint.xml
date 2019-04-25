@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Bonescale</regex></oldfilter>
+        <oldfilter><regex>Name:Cutter</regex></oldfilter>
+        <oldfilter><regex>Name:#Darkness</regex></oldfilter>
+        <oldfilter><regex>Name:Deathgazer</regex></oldfilter>
+        <oldfilter><regex>Name:Firedowser Uglaberg</regex></oldfilter>
+        <oldfilter><regex>Name:Glart Fink</regex></oldfilter>
+        <oldfilter><regex>Name:Kar`Zok Overlord</regex></oldfilter>
+        <oldfilter><regex>Name:Mad Researcher</regex></oldfilter>
+        <oldfilter><regex>Name:Okara klyseer</regex></oldfilter>
+        <oldfilter><regex>Name:Overlord Dralgan</regex></oldfilter>
+        <oldfilter><regex>Name:Rogue Monstrosity</regex></oldfilter>
+        <oldfilter><regex>Name:Screaming Tormentor</regex></oldfilter>
+        <oldfilter><regex>Name:Sepulcher Curator</regex></oldfilter>
+        <oldfilter><regex>Name:Stonespiked Guardian</regex></oldfilter>
+        <oldfilter><regex>Name:The Possessed</regex></oldfilter>
+        <oldfilter><regex>Name:Vakazon Viz</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+    </section>
+    <section name="Filtered">
+    </section>
+    <section name="Email">
+    </section>
+</seqfilters>

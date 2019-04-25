@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:#Venril Sathir</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#Venril Sathir</regex></oldfilter>
+        <oldfilter><regex>Name:Caller of Sathir</regex></oldfilter>
+        <oldfilter><regex>Name:Construct of Sathir</regex></oldfilter>
+        <oldfilter><regex>Name:Drolvarg Captain</regex></oldfilter>
+        <oldfilter><regex>Name:Drolvarg Pawbuster</regex></oldfilter>
+        <oldfilter><regex>Name:Hangnail</regex></oldfilter>
+        <oldfilter><regex>Name:Knight of Sathir</regex></oldfilter>
+        <oldfilter><regex>Name:Mrylokar</regex></oldfilter>
+        <oldfilter><regex>Name:Sentry of Sathir</regex></oldfilter>
+        <oldfilter><regex>Name:Skeletal Berzerker</regex></oldfilter>
+        <oldfilter><regex>Name:Skeletal Captain</regex></oldfilter>
+        <oldfilter><regex>Name:Skeletal Caretaker</regex></oldfilter>
+        <oldfilter><regex>Name:Skeletal Jailor</regex></oldfilter>
+        <oldfilter><regex>Name:Skeletal Scryer</regex></oldfilter>
+        <oldfilter><regex>Name:Skeletal Squire</regex></oldfilter>
+        <oldfilter><regex>Name:Skeletal Warlord</regex></oldfilter>
+        <oldfilter><regex>Name:Turnkey</regex></oldfilter>
+        <oldfilter><regex>Name:Undead Jailer</regex></oldfilter>
+        <oldfilter><regex>Name:Venril Sathir</regex></oldfilter>
+        <oldfilter><regex>Name:Venril Sathirs remains</regex></oldfilter>
+        <oldfilter><regex>Name:Verix Kyloxs remains</regex></oldfilter>
+        <oldfilter><regex>Name:Wulfwere Bodyguard</regex></oldfilter>
+        <oldfilter><regex>Name:caller of Sathir</regex></oldfilter>
+        <oldfilter><regex>Name:undead jailer</regex></oldfilter>
+        <oldfilter><regex>Name:a Drolvarg warlord</regex></oldfilter>
+        <oldfilter><regex>Name:a human skeleton</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

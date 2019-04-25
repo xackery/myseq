@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Allizewsaur</regex></oldfilter>
+        <oldfilter><regex>Name:Aqua Goblin Sacrifice</regex></oldfilter>
+        <oldfilter><regex>Name:Boog Mudtoe</regex></oldfilter>
+        <oldfilter><regex>Name:Brawn</regex></oldfilter>
+        <oldfilter><regex>Name:Goob Mudtoe</regex></oldfilter>
+        <oldfilter><regex>Name:Gornit</regex></oldfilter>
+        <oldfilter><regex>Name:Nerbilik</regex></oldfilter>
+        <oldfilter><regex>Name:Oracle of K'Arnon</regex></oldfilter>
+        <oldfilter><regex>Name:Quag</regex></oldfilter>
+        <oldfilter><regex>Name:Soaring Brightfeather</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

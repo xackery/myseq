@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Tqiv Araxt the Enraged</regex></oldfilter>
+        <oldfilter><regex>Name:Tqiv Qukret the Furious</regex></oldfilter>
+        <oldfilter><regex>Name:Devastating Construct</regex></oldfilter>
+        <oldfilter><regex>Name:Vrex Barxt Qurat</regex></oldfilter>
+        <oldfilter><regex>Name:Spectral Trushar Worshipper</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

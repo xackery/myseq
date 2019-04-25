@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Teir`Dal Mercenary</regex></oldfilter>
+        <oldfilter><regex>Name:barbarian mercenary</regex></oldfilter>
+        <oldfilter><regex>Name:gnome mercenary</regex></oldfilter>
+        <oldfilter><regex>Name:human mercenary</regex></oldfilter>
+        <oldfilter><regex>Name:mist panther</regex></oldfilter>
+        <oldfilter><regex>Name:ogre mercenary</regex></oldfilter>
+        <oldfilter><regex>Name:troll mercenary</regex></oldfilter>
+    </section>
+    <section name="Caution">
+        <oldfilter><regex>Name:Rolandal</regex></oldfilter>
+        <oldfilter><regex>Name:Wuoshi</regex></oldfilter>
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Corrupted Faun</regex></oldfilter>
+        <oldfilter><regex>Name:Corrupted Panther</regex></oldfilter>
+        <oldfilter><regex>Name:Corrupted Unicorn</regex></oldfilter>
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:a haze panther</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Giant aligned</regex></oldfilter>
+        <oldfilter><regex>Name:#a storm giant architect</regex></oldfilter>
+        <oldfilter><regex>Name:#a storm giant foreman</regex></oldfilter>
+        <oldfilter><regex>Name:Frostgiant Overseer</regex></oldfilter>
+        <oldfilter><regex>Name:Lieutenant Krofer</regex></oldfilter>
+        <oldfilter><regex>Name:Korzak Stonehammer</regex></oldfilter>
+        <oldfilter><regex>Name:#Lord Gossimerwind</regex></oldfilter>
+        <oldfilter><regex>Name:#Lord Prismwing</regex></oldfilter>
+        <oldfilter><regex>Name:Countess Silveana</regex></oldfilter>
+        <oldfilter><regex>Name:Eysa Florawhisper</regex></oldfilter>
+        <oldfilter><regex>Name:Felisiana of Tunare</regex></oldfilter>
+        <oldfilter><regex>Name:Lady Gelistial</regex></oldfilter>
+        <oldfilter><regex>Name:Wuoshi</regex></oldfilter>
+        <oldfilter><regex>Name:Rolandal</regex></oldfilter>
+        <oldfilter><regex>Name:Priest Bjek</regex></oldfilter>
+        <oldfilter><regex>Name:Priest Delar</regex></oldfilter>
+        <oldfilter><regex>Name:Priest Grenik</regex></oldfilter>
+        <oldfilter><regex>Named giant for the helm of the tracker</regex></oldfilter>
+        <oldfilter><regex>Name:A Storm Giant Overseer</regex></oldfilter>
+        <oldfilter><regex>Name:accolyte of Zek</regex></oldfilter>
+        <oldfilter><regex>Name:Bloodpriest Loukond</regex></oldfilter>
+        <oldfilter><regex>Name:#Rapticor</regex></oldfilter>
+        <oldfilter><regex>Name:a haze panther</regex></oldfilter>
+        <oldfilter><regex>Name:Phenocryst</regex></oldfilter>
+        <oldfilter><regex>Name:mist panther</regex></oldfilter>
+        <oldfilter><regex>Name:Grand Vizier Poolakacha`te</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

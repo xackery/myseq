@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Karg the Fiend</regex></oldfilter>
+        <oldfilter><regex>Name:Revolter Yernom</regex></oldfilter>
+        <oldfilter><regex>Name:Varin Deathclaw</regex></oldfilter>
+        <oldfilter><regex>Name:Inventor Krang</regex></oldfilter>
+        <oldfilter><regex>Name:Loyal Servant Ziym</regex></oldfilter>
+        <oldfilter><regex>Name:Toiler Opanin</regex></oldfilter>
+        <oldfilter><regex>Name:Girplan Architect</regex></oldfilter>
+        <oldfilter><regex>Name:Guardsman Quilm</regex></oldfilter>
+        <oldfilter><regex>Name:Trainer Dysarth</regex></oldfilter>
+        <oldfilter><regex>Name:Trainer Cyrum</regex></oldfilter>
+        <oldfilter><regex>Name:Builder Gorb</regex></oldfilter>
+        <oldfilter><regex>Name:Retind Oaln</regex></oldfilter>
+        <oldfilter><regex>Name:Foreman Guppu</regex></oldfilter>
+        <oldfilter><regex>Name:The Prime Mover</regex></oldfilter>
+        <oldfilter><regex>Name:Peon Salnar</regex></oldfilter>
+        <oldfilter><regex>Name:A Discordling Sneak</regex></oldfilter>
+        <oldfilter><regex>Name:a discordling stalker</regex></oldfilter>
+        <oldfilter><regex>Name:Overseer Rowgar</regex></oldfilter>
+        <oldfilter><regex>Name:Taskmaster Yarln</regex></oldfilter>
+        <oldfilter><regex>Name:Attendant of Light</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

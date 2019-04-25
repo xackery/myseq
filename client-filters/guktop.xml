@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Ancient Crocodile</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:a froglok apprentice</regex></oldfilter>
+        <oldfilter><regex>Name:a froglok gaz squire</regex></oldfilter>
+        <oldfilter><regex>Name:a froglok idealist</regex></oldfilter>
+        <oldfilter><regex>Name:a froglok necromancer</regex></oldfilter>
+        <oldfilter><regex>Name:a froglok neophyte</regex></oldfilter>
+        <oldfilter><regex>Name:a froglok nokta shaman</regex></oldfilter>
+        <oldfilter><regex>Name:a froglok novice</regex></oldfilter>
+        <oldfilter><regex>Name:a froglok priest</regex></oldfilter>
+        <oldfilter><regex>Name:a froglok realist</regex></oldfilter>
+        <oldfilter><regex>Name:a froglok scryer</regex></oldfilter>
+        <oldfilter><regex>Name:a froglok sentinel</regex></oldfilter>
+        <oldfilter><regex>Name:a froglok sentry</regex></oldfilter>
+        <oldfilter><regex>Name:a froglok summoner</regex></oldfilter>
+        <oldfilter><regex>Name:a froglok witch doctor</regex></oldfilter>
+        <oldfilter><regex>Name:a fungus mutant</regex></oldfilter>
+        <oldfilter><regex>Name:a giant heart spider</regex></oldfilter>
+        <oldfilter><regex>Name:a skeleton monk</regex></oldfilter>
+        <oldfilter><regex>Name:an ancient croc</regex></oldfilter>
+        <oldfilter><regex>Name:the froglok shin lord</regex></oldfilter>
+        <oldfilter><regex>Name:the froglok warden</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

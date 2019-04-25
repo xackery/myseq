@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Guano Harvester</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:Lord Nagafen</regex></oldfilter>
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:Lord Nagafen</regex></oldfilter>
+        <oldfilter><regex>Name:Zordak Ragefire</regex></oldfilter>
+        <oldfilter><regex>Name:Zordakilicus Ragefire</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Death Beetle</regex></oldfilter>
+        <oldfilter><regex>Name:Death Scarab</regex></oldfilter>
+        <oldfilter><regex>Name:Efreeti Lord Djarn</regex></oldfilter>
+        <oldfilter><regex>Name:Guano Harvester</regex></oldfilter>
+        <oldfilter><regex>Name:King Tranix</regex></oldfilter>
+        <oldfilter><regex>Name:Kobold Champion</regex></oldfilter>
+        <oldfilter><regex>Name:Kobold Noble</regex></oldfilter>
+        <oldfilter><regex>Name:Kobold Priest</regex></oldfilter>
+        <oldfilter><regex>Name:Lord Nagafen</regex></oldfilter>
+        <oldfilter><regex>Name:Magus Rokyl</regex></oldfilter>
+        <oldfilter><regex>Name:Midghh</regex></oldfilter>
+        <oldfilter><regex>Name:Noxious Spider</regex></oldfilter>
+        <oldfilter><regex>Name:Solusek Bobold king</regex></oldfilter>
+        <oldfilter><regex>Name:Stone Spider</regex></oldfilter>
+        <oldfilter><regex>Name:Targin the Rock</regex></oldfilter>
+        <oldfilter><regex>Name:Warlord Skarlon</regex></oldfilter>
+        <oldfilter><regex>Name:Zordak Ragefire</regex></oldfilter>
+        <oldfilter><regex>Name:Zordakilicus Ragefire</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

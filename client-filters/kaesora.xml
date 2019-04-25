@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:Spectral Librarian</regex></oldfilter>
+        <oldfilter><regex>Name:Xalgoz</regex></oldfilter>
+        <oldfilter><regex>Name:Drop: '*Bottom shard of the Kylong medallion'</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:Xalgoz</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Failed Crypt Raider</regex></oldfilter>
+        <oldfilter><regex>Name:Frenzied Spider</regex></oldfilter>
+        <oldfilter><regex>Name:Frenzied Strathbone</regex></oldfilter>
+        <oldfilter><regex>Name:Hungered Ravenger</regex></oldfilter>
+        <oldfilter><regex>Name:Reaver of Xalgoz</regex></oldfilter>
+        <oldfilter><regex>Name:Spectral Librarian</regex></oldfilter>
+        <oldfilter><regex>Name:Strathbone Runelord</regex></oldfilter>
+        <oldfilter><regex>Name:Warder of Xalgoz</regex></oldfilter>
+        <oldfilter><regex>Name:Xalgoz</regex></oldfilter>
+        <oldfilter><regex>Name:tortured librarian</regex></oldfilter>
+        <oldfilter><regex>Name:Drop: '*Bottom shard of the Kylong medallion'</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

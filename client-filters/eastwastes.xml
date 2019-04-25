@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+        <oldfilter><regex>Name:a snow griffin</regex></oldfilter>
+        <oldfilter><regex>Name:an elder snow griffin</regex></oldfilter>
+        <oldfilter><regex>Name:Your</regex></oldfilter>
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+        <oldfilter><regex>Name:You have</regex></oldfilter>
+        <oldfilter><regex>Name:Kromriff Death Squad</regex></oldfilter>
+        <oldfilter><regex>Name:Kromrif Elite</regex></oldfilter>
+        <oldfilter><regex>Name:Kromrif Soldier</regex></oldfilter>
+        <oldfilter><regex>Name:Ry`Gorr Elite:</regex></oldfilter>
+        <oldfilter><regex>Name:Ry`Gorr Oracle:</regex></oldfilter>
+        <oldfilter><regex>Name:a Ry`Gorr Avenger</regex></oldfilter>
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Boridain Glacierbane</regex></oldfilter>
+        <oldfilter><regex>Name:Chief Ry'Gorr</regex></oldfilter>
+        <oldfilter><regex>Name:Coldain Icechipper</regex></oldfilter>
+        <oldfilter><regex>Name:Corbin Blackwell</regex></oldfilter>
+        <oldfilter><regex>Name:Ewph</regex></oldfilter>
+        <oldfilter><regex>Name:Firebrand the Black</regex></oldfilter>
+        <oldfilter><regex>Name:Garadin Glacierbane</regex></oldfilter>
+        <oldfilter><regex>Name:Garfunkle</regex></oldfilter>
+        <oldfilter><regex>Name:Ghrek Squatnot</regex></oldfilter>
+        <oldfilter><regex>Name:Icefang</regex></oldfilter>
+        <oldfilter><regex>Name:Interrogator of Ry`Gorr</regex></oldfilter>
+        <oldfilter><regex>Name:Korrigain</regex></oldfilter>
+        <oldfilter><regex>Name:Oracle of Ry`Gorr</regex></oldfilter>
+        <oldfilter><regex>Name:Paladin of Brell</regex></oldfilter>
+        <oldfilter><regex>Name:Priest of Brell</regex></oldfilter>
+        <oldfilter><regex>Name:Rodrick Tardok</regex></oldfilter>
+        <oldfilter><regex>Name:Ry`Gorr Messenger</regex></oldfilter>
+        <oldfilter><regex>Name:Ry`Gorr Emissary</regex></oldfilter>
+        <oldfilter><regex>Name:Tain Hammerfrost</regex></oldfilter>
+        <oldfilter><regex>Name:Tanik Greskil</regex></oldfilter>
+        <oldfilter><regex>Name:Warden Bruke</regex></oldfilter>
+        <oldfilter><regex>Name:a blacksmith of Ry`Gorr</regex></oldfilter>
+        <oldfilter><regex>Name:a snow griffin</regex></oldfilter>
+        <oldfilter><regex>Name:an elder snow griffin</regex></oldfilter>
+        <oldfilter><regex>Name:Your</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

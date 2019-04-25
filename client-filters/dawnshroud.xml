@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+        <oldfilter><regex>Name:An Age Old Rockhoppper</regex></oldfilter>
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:#A Berserk Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#A Berserk Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#A Blazing Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#A Bloodcrazed Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#A Cunning Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#A Darkened Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#A Furious Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#A Ravenous Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#A Rockhopper Ravager</regex></oldfilter>
+        <oldfilter><regex>Name:#A Stealthy Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#A Swift Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#A Tribal Prowler</regex></oldfilter>
+        <oldfilter><regex>Name:#An Age Old Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#An Aggressive Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#An Elder Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#An Envenomed Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:#Blood Timer</regex></oldfilter>
+        <oldfilter><regex>Name:#Carre Harger</regex></oldfilter>
+        <oldfilter><regex>Name:#Rock Leader</regex></oldfilter>
+        <oldfilter><regex>Name:#Rock Worker</regex></oldfilter>
+        <oldfilter><regex>Name:#Sambata Faith Worker</regex></oldfilter>
+        <oldfilter><regex>Name:#Sambata Firekeeper</regex></oldfilter>
+        <oldfilter><regex>Name:#Sambata Gemkeeper</regex></oldfilter>
+        <oldfilter><regex>Name:#Sambata Gilded Worker</regex></oldfilter>
+        <oldfilter><regex>Name:#Sambata Naturalist</regex></oldfilter>
+        <oldfilter><regex>Name:#Sambata Nectar Gatherer</regex></oldfilter>
+        <oldfilter><regex>Name:#Sambata Potter</regex></oldfilter>
+        <oldfilter><regex>Name:#Sambata Primalist</regex></oldfilter>
+        <oldfilter><regex>Name:#Sambata Primitive</regex></oldfilter>
+        <oldfilter><regex>Name:#Sambata Tribal Advisor</regex></oldfilter>
+        <oldfilter><regex>Name:#Sambata Tribal Leader Gar</regex></oldfilter>
+        <oldfilter><regex>Name:#Sambata Tribal Shaman</regex></oldfilter>
+        <oldfilter><regex>Name:#Sambata Veiled Guide</regex></oldfilter>
+        <oldfilter><regex>Name:A# Restless Rockhopper</regex></oldfilter>
+        <oldfilter><regex>Name:Fungus Covered Shroom</regex></oldfilter>
+        <oldfilter><regex>Name:a berserk zelniak</regex></oldfilter>
+        <oldfilter><regex>Name:a runed stonegrabber</regex></oldfilter>
+        <oldfilter><regex>Name:an invisible wolf</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

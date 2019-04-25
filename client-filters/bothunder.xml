@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Agnarr the Storm Lord</regex></oldfilter>
+        <oldfilter><regex>Name:Amnquetil Brynjulffr</regex></oldfilter>
+        <oldfilter><regex>Name:Atle Cloudburst</regex></oldfilter>
+        <oldfilter><regex>Name:Auliffe Chaoswind</regex></oldfilter>
+        <oldfilter><regex>Name:Bordir Bjomolf</regex></oldfilter>
+        <oldfilter><regex>Name:Brynju Thunderclap</regex></oldfilter>
+        <oldfilter><regex>Name:Eindride Icestorm</regex></oldfilter>
+        <oldfilter><regex>Name:Ekil Thundercall</regex></oldfilter>
+        <oldfilter><regex>Name:Elif Whitewind</regex></oldfilter>
+        <oldfilter><regex>Name:Emmerick Skyfury</regex></oldfilter>
+        <oldfilter><regex>Name:Erech Eyford</regex></oldfilter>
+        <oldfilter><regex>Name:Evynd Firestorm</regex></oldfilter>
+        <oldfilter><regex>Name:Fogl Iceshard</regex></oldfilter>
+        <oldfilter><regex>Name:Galm Snowdrift</regex></oldfilter>
+        <oldfilter><regex>Name:Gaukr Sandstorm</regex></oldfilter>
+        <oldfilter><regex>Name:Hibdin Cyclone</regex></oldfilter>
+        <oldfilter><regex>Name:Hrani</regex></oldfilter>
+        <oldfilter><regex>Name:Hreidar Lynhillig</regex></oldfilter>
+        <oldfilter><regex>Name:Iri</regex></oldfilter>
+        <oldfilter><regex>Name:Jolur Sandstorm</regex></oldfilter>
+        <oldfilter><regex>Name:Kuanbyr Hailstorm</regex></oldfilter>
+        <oldfilter><regex>Name:Laef Windfall</regex></oldfilter>
+        <oldfilter><regex>Name:Leistr</regex></oldfilter>
+        <oldfilter><regex>Name:Oljin Stormtide</regex></oldfilter>
+        <oldfilter><regex>Name:Oreen Wavecrasher</regex></oldfilter>
+        <oldfilter><regex>Name:Riodhr Torrentwind</regex></oldfilter>
+        <oldfilter><regex>Name:Rorek Steelthorn</regex></oldfilter>
+        <oldfilter><regex>Name:Thangbrand</regex></oldfilter>
+        <oldfilter><regex>Name:Thorolf Sutherland</regex></oldfilter>
+        <oldfilter><regex>Name:Torstien Stoneskin</regex></oldfilter>
+        <oldfilter><regex>Name:Valbrand</regex></oldfilter>
+        <oldfilter><regex>Name:Wybjorn</regex></oldfilter>
+        <oldfilter><regex>Name:Ymir Stormseer</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>

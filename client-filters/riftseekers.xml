@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seqfilters SYSTEM "seqfilters.dtd">
+<!-- Created by Gward for BlueAdept for use with ShowEQ 5.xx. All rights reserved. -->
+<seqfilters>
+    <section name="Hunt">
+    </section>
+    <section name="Caution">
+    </section>
+    <section name="Danger">
+    </section>
+    <section name="Locate">
+    </section>
+    <section name="Alert">
+        <oldfilter><regex>Name:Gelidran Conjurer</regex></oldfilter>
+        <oldfilter><regex>Name:Balancer Relik</regex></oldfilter>
+        <oldfilter><regex>Name:Chailak</regex></oldfilter>
+        <oldfilter><regex>Name:Feratha</regex></oldfilter>
+        <oldfilter><regex>Name:Mistwalker</regex></oldfilter>
+        <oldfilter><regex>Name:Pyrilen Researcher</regex></oldfilter>
+        <oldfilter><regex>Name:Queen Pyrilonis</regex></oldfilter>
+        <oldfilter><regex>Name:Gelidran Icekeeper</regex></oldfilter>
+        <oldfilter><regex>Name:King Gelaqua</regex></oldfilter>
+        <oldfilter><regex>Name:Companion Prefect</regex></oldfilter>
+        <oldfilter><regex>Name:Girplan Shardtender</regex></oldfilter>
+        <oldfilter><regex>Name:Gelidran Frostformer</regex></oldfilter>
+        <oldfilter><regex>Name:Channeler Pyren</regex></oldfilter>
+        <oldfilter><regex>Name:Ruiner Isaka</regex></oldfilter>
+        <oldfilter><regex>Name:Pyrilen Summoner</regex></oldfilter>
+        <oldfilter><regex>Name:Pyrilen Riftseeker</regex></oldfilter>
+        <oldfilter><regex>Name:Familiar Venomtail</regex></oldfilter>
+        <oldfilter><regex>Name:Discordling Shardmender</regex></oldfilter>
+        <oldfilter><regex>Name:Girplan Stonesinger</regex></oldfilter>
+        <oldfilter><regex>Name:Discordling Shardmender</regex></oldfilter>
+        <oldfilter><regex>Name:Elite Aneuk Miseryfiend</regex></oldfilter>
+        <oldfilter><regex>Name:Shadowstalker</regex></oldfilter>
+        <oldfilter><regex>Name:Cyrec the Arcane</regex></oldfilter>
+    </section>
+    <section name="Filtered">
+    </section>
+</seqfilters>
